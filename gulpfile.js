@@ -2,6 +2,10 @@
 "use strict";
 
 var gulp = require('gulp'),
+	concat = require('gulp-concat'),
+	striplog = require('gulp-strip-debug'),
+	gutil = require('gulp-util'),
+	uglify = require('gulp-uglify'),
 	fs = require('fs'),
 	file = require('gulp-file'),
 	path = require('path'),
@@ -18,8 +22,21 @@ var gulp = require('gulp'),
 var settings = {
 	publicDir: '_site',
 	sassDir: 'assets/css',
-	cssDir: '_site/assets/css'
+	cssDir: '_site/assets/css', 
+	js_src:'src/_js/*.js',
+	js_dest:'_site/assets/js'
 };
+
+// My js files
+gulp.task('scripts', function() {
+  // pipe the js through concat, console log stripping, uglification and then store
+  return gulp.src(settings.js_src)
+      .pipe(concat('app.min.js')) // concat all files in the src
+      .pipe(striplog())
+      .pipe(uglify())   // uglify them all
+      .pipe(gulp.dest(settings.js_dest)) // save the file
+      .on('error', gutil.log); 
+});
 
 
 /**
@@ -35,19 +52,10 @@ function requireUncached( $module ) {
  * matching file name. index.jade - index.jade.json
  */
 
- // gulp.task('jade', function () {
- // 	return gulp.src('*.jade')
- // 		.pipe(data(function (file) {
- // 			return requireUncached('./src/_data/projects.json');
- // 		}))
- // 		.pipe(jade())
- // 		.pipe(gulp.dest(settings.publicDir));
- // });
-
  gulp.task('jade', ['data'], function() {
 
    var utils = require('./src/_js/utils.js');
-   var data = JSON.parse(fs.readFileSync('./_site/assets/data/projects.json', 'utf-8'));
+   var data = JSON.parse(fs.readFileSync('./_site/assets/data/artists.json', 'utf-8'));
 
    return gulp.src('*.jade')
      .pipe(jade({
@@ -74,7 +82,7 @@ gulp.task('jade-rebuild', ['jade'], function () {
 /**
  * Wait for jade and sass tasks, then launch the browser-sync Server
  */
-gulp.task('browser-sync', ['sass', 'jade', 'data'], function () {
+gulp.task('browser-sync', ['sass', 'jade', 'data', 'scripts'], function () {
 	browserSync({
 		server: {
 			baseDir: settings.publicDir

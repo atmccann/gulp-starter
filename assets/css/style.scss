@@ -5,7 +5,13 @@ header {
 		font-weight: 300;
 		text-align: center;
 		font-size: 60px;
-		margin-top: 180px;
 		color: red;
 	}
+}
+
+.graph {
+	border: 1px solid #000;
+	height: 900px;
+	width: 900px;
+	margin: 0 auto;
 }
