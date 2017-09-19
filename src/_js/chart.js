@@ -1,25 +1,25 @@
 ;(function() {
 
-    // var $ = require('jquery');
-    // var utils = require('./utils.js');
-    // var _ = require('underscore');
+    console.log('hello');
 
-    // function Chart() {
+    var utils = require('./utils.js');
+    var _ = require('underscore');
+    var d3 = require('d3');
 
-    //     var self = this;
+    function Chart() {
 
-    //     this.init = function(selector, data) {
+        var self = this;
 
-    //         self.div = d3.select(selector);
-    //         self.data = self.setupGraph(data);
+        this.init = function(selector, data) {
 
-    //     };
+            self.div = d3.select(selector);
+        };
 
-    //     this.init();
-    //     return self;
+        this.init();
+        return self;
 
-    // }
+    }
 
-// module.exports = Chart;
+module.exports = Chart;
 
 }());

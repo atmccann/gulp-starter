@@ -5,51 +5,51 @@ var _ = require('underscore');
 // Put your project specific utility functions here
 module.exports = {
 
-    // getTitle: function(data) {
+    getTitle: function(data) {
 
-    //     var titles = _.values(data.title);
+        var titles = _.values(data.title);
 
-    //     return titles;
-    // },
+        return titles;
+    },
 
-    // formatPublishTime: function (time) {
-    //     return module.exports.formatTime(time, 'MMM D, YYYY', 'America/New_York')
-    // },
+    formatPublishTime: function (time) {
+        return module.exports.formatTime(time, 'MMM D, YYYY', 'America/New_York')
+    },
 
-    // sortByDate: function(data) {
+    sortByDate: function(data) {
 
-    //     var latest = _.sortBy(data, function(d) {
+        var latest = _.sortBy(data, function(d) {
 
-    //         return d.pub_date;
+            return d.pub_date;
             
-    //     }).reverse();
+        }).reverse();
 
-    //     return latest;
+        return latest;
 
-    // },
+    },
 
-    // countActive: function(data) {
+    countActive: function(data) {
 
-    //     var active = data.filter(function(val) {
+        var active = data.filter(function(val) {
 
-    //         return val.status == 'active';
+            return val.status == 'active';
 
-    //     }).length;
+        }).length;
 
-    //     return active;
+        return active;
 
-    // },
+    },
 
-    // countArchived: function(data) {
+    countArchived: function(data) {
 
-    //     var archived = data.filter(function(val) {
+        var archived = data.filter(function(val) {
 
-    //         return val.status == 'archived';
+            return val.status == 'archived';
 
-    //     }).length;
+        }).length;
 
-    //     return archived;
+        return archived;
 
-    // }
+    }
 
 };
