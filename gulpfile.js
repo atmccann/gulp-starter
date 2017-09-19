@@ -2,10 +2,7 @@
 "use strict";
 
 var gulp = require('gulp'),
-	concat = require('gulp-concat'),
-	striplog = require('gulp-strip-debug'),
 	gutil = require('gulp-util'),
-	uglify = require('gulp-uglify'),
 	fs = require('fs'),
 	file = require('gulp-file'),
 	path = require('path'),
@@ -14,6 +11,7 @@ var gulp = require('gulp'),
 	prefix = require('gulp-autoprefixer'),
 	sass = require('gulp-sass'),
 	_ = require('underscore'),
+	browserify = require('gulp-browserify'),
 	browserSync = require('browser-sync');
 
 /*
@@ -22,22 +20,19 @@ var gulp = require('gulp'),
 var settings = {
 	publicDir: '_site',
 	sassDir: 'assets/css',
-	cssDir: '_site/assets/css', 
-	js_src:'src/_js/*.js',
-	js_dest:'_site/assets/js'
+	cssDir: '_site/assets/css'
 };
 
 // My js files
 gulp.task('scripts', function() {
-  // pipe the js through concat, console log stripping, uglification and then store
-  return gulp.src(settings.js_src)
-      .pipe(concat('app.min.js')) // concat all files in the src
-      .pipe(striplog())
-      .pipe(uglify())   // uglify them all
-      .pipe(gulp.dest(settings.js_dest)) // save the file
-      .on('error', gutil.log); 
+    // Single entry point to browserify 
+    gulp.src('src/_js/app.js')
+        .pipe(browserify({
+          insertGlobals : true,
+          debug : !gulp.env.production
+        }))
+        .pipe(gulp.dest('./_site/assets/js'))
 });
-
 
 /**
  * De-caching function for Data files
