@@ -119,7 +119,7 @@ gulp.task('data', function() {
       data[filename.slice(0, -5)] = JSON.parse(contents);
     }
   });
-  file('projects.json', JSON.stringify(data, null, 2)).pipe(gulp.dest('./_site/assets/data'));
+  file('artists.json', JSON.stringify(data, null, 2)).pipe(gulp.dest('./_site/assets/data'));
 
   return gulp.src('src/_data/**/*.json')
     .pipe(gulp.dest('./_site/assets/data/'));

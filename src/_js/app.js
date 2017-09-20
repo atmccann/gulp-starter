@@ -20,8 +20,6 @@ function drawScatterCharts() {
     var chart = new scatterChart();
     chart.init("#scatter-container", data);
     scatterCharts.push(chart);
-
-    console.log('dont loop');
 }
 
 drawScatterCharts();

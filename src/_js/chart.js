@@ -11,15 +11,14 @@
         this.init = function(selector, data) {
 
             self.div = d3.select(selector);
-
-            console.log('plz dont loop');
-            console.log(selector);
-            console.log(data);
+            self.data = self.setupGraph(data);
 
         };
 
-        this.init();
-        return self;
+        this.setupGraph = function(data) {
+
+            console.log(data[29]);
+        };
 
     }
 

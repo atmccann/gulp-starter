@@ -12,12 +12,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 3,
-    "artist": "J Balvin",
-    "norm_streams": 69.23,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 4,
     "artist": "Kendrick Lamar",
     "norm_streams": 68.642,
@@ -198,22 +192,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 34,
-    "artist": "Bad Bunny",
-    "norm_streams": 31.813,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 35,
     "artist": "Taylor Swift",
     "norm_streams": 31.771,
     "peak_year": 2008
-  },
-  {
-    "rank": 36,
-    "artist": "Willy William",
-    "norm_streams": 31.305,
-    "peak_year": "#N/A"
   },
   {
     "rank": 37,
@@ -268,18 +250,6 @@
     "artist": "Migos",
     "norm_streams": 26.636,
     "peak_year": 2017
-  },
-  {
-    "rank": 46,
-    "artist": "Chris Brown",
-    "norm_streams": 26.205,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 47,
-    "artist": "Ty Dolla $ign",
-    "norm_streams": 26.031,
-    "peak_year": "#N/A"
   },
   {
     "rank": 48,
@@ -348,12 +318,6 @@
     "peak_year": 2013
   },
   {
-    "rank": 59,
-    "artist": "G-Eazy",
-    "norm_streams": 22.618,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 60,
     "artist": "Nicky Jam",
     "norm_streams": 22.523,
@@ -370,12 +334,6 @@
     "artist": "Beyoncé",
     "norm_streams": 22.344,
     "peak_year": 2003
-  },
-  {
-    "rank": 63,
-    "artist": "BTS",
-    "norm_streams": 22.339,
-    "peak_year": "#N/A"
   },
   {
     "rank": 64,
@@ -432,12 +390,6 @@
     "peak_year": 1996
   },
   {
-    "rank": 73,
-    "artist": "Young Thug",
-    "norm_streams": 21.772,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 74,
     "artist": "Lil Wayne",
     "norm_streams": 20.302,
@@ -454,12 +406,6 @@
     "artist": "Panic! At The Disco",
     "norm_streams": 20.048,
     "peak_year": 2008
-  },
-  {
-    "rank": 77,
-    "artist": "SZA",
-    "norm_streams": 19.793,
-    "peak_year": "#N/A"
   },
   {
     "rank": 78,
@@ -534,18 +480,6 @@
     "peak_year": 2010
   },
   {
-    "rank": 90,
-    "artist": "Die drei ???",
-    "norm_streams": 17.911,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 91,
-    "artist": "Axwell /\\ Ingrosso",
-    "norm_streams": 17.889,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 92,
     "artist": "Louis Tomlinson",
     "norm_streams": 17.658,
@@ -604,12 +538,6 @@
     "artist": "Hailee Steinfeld",
     "norm_streams": 16.516,
     "peak_year": 2017
-  },
-  {
-    "rank": 102,
-    "artist": "Adele",
-    "norm_streams": 16.481,
-    "peak_year": "#N/A"
   },
   {
     "rank": 103,
@@ -696,12 +624,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 117,
-    "artist": "Alan Walker",
-    "norm_streams": 13.994,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 118,
     "artist": "Pitbull",
     "norm_streams": 13.676,
@@ -744,18 +666,6 @@
     "peak_year": 2001
   },
   {
-    "rank": 125,
-    "artist": "A Boogie Wit da Hoodie",
-    "norm_streams": 12.855,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 126,
-    "artist": "CNCO",
-    "norm_streams": 12.851,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 127,
     "artist": "XXXTENTACION",
     "norm_streams": 12.403,
@@ -784,12 +694,6 @@
     "artist": "Maggie Lindemann",
     "norm_streams": 12.179,
     "peak_year": 2016
-  },
-  {
-    "rank": 132,
-    "artist": "LANY",
-    "norm_streams": 12.13,
-    "peak_year": "#N/A"
   },
   {
     "rank": 133,
@@ -846,12 +750,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 142,
-    "artist": "A$AP Rocky",
-    "norm_streams": 11.132,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 143,
     "artist": "EXO",
     "norm_streams": 10.828,
@@ -882,12 +780,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 148,
-    "artist": "Sebastian Yatra",
-    "norm_streams": 10.592,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 149,
     "artist": "The Killers",
     "norm_streams": 10.577,
@@ -898,12 +790,6 @@
     "artist": "6LACK",
     "norm_streams": 10.454,
     "peak_year": 2016
-  },
-  {
-    "rank": 151,
-    "artist": "Anuel Aa",
-    "norm_streams": 10.343,
-    "peak_year": "#N/A"
   },
   {
     "rank": 152,
@@ -942,22 +828,10 @@
     "peak_year": 1991
   },
   {
-    "rank": 158,
-    "artist": "Manuel Turizo",
-    "norm_streams": 10.147,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 159,
     "artist": "Kehlani",
     "norm_streams": 10.081,
     "peak_year": 2017
-  },
-  {
-    "rank": 160,
-    "artist": "Sam Smith",
-    "norm_streams": 10.076,
-    "peak_year": "#N/A"
   },
   {
     "rank": 161,
@@ -978,22 +852,10 @@
     "peak_year": 2015
   },
   {
-    "rank": 164,
-    "artist": "Matheus & Kauan",
-    "norm_streams": 9.97,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 165,
     "artist": "Seeb",
     "norm_streams": 9.967,
     "peak_year": 2016
-  },
-  {
-    "rank": 166,
-    "artist": "Melanie Martinez",
-    "norm_streams": 9.862,
-    "peak_year": "#N/A"
   },
   {
     "rank": 167,
@@ -1018,12 +880,6 @@
     "artist": "2Pac",
     "norm_streams": 9.572,
     "peak_year": 1995
-  },
-  {
-    "rank": 171,
-    "artist": "Machine Gun Kelly",
-    "norm_streams": 9.527,
-    "peak_year": "#N/A"
   },
   {
     "rank": 172,
@@ -1060,18 +916,6 @@
     "artist": "Desiigner",
     "norm_streams": 9.218,
     "peak_year": 2016
-  },
-  {
-    "rank": 178,
-    "artist": "The Notorious B.I.G.",
-    "norm_streams": 9.188,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 179,
-    "artist": "Zion & Lennox",
-    "norm_streams": 9.166,
-    "peak_year": "#N/A"
   },
   {
     "rank": 180,
@@ -1122,12 +966,6 @@
     "peak_year": 2005
   },
   {
-    "rank": 188,
-    "artist": "Kevin Gates",
-    "norm_streams": 8.976,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 189,
     "artist": "Jeremih",
     "norm_streams": 8.953,
@@ -1150,12 +988,6 @@
     "artist": "Matoma",
     "norm_streams": 8.837,
     "peak_year": 2015
-  },
-  {
-    "rank": 193,
-    "artist": "Jowell & Randy",
-    "norm_streams": 8.788,
-    "peak_year": "#N/A"
   },
   {
     "rank": 194,
@@ -1266,12 +1098,6 @@
     "peak_year": 2012
   },
   {
-    "rank": 212,
-    "artist": "MC Kevinho",
-    "norm_streams": 8.086,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 213,
     "artist": "Britney Spears",
     "norm_streams": 8.085,
@@ -1290,22 +1116,10 @@
     "peak_year": 2015
   },
   {
-    "rank": 216,
-    "artist": "Piso 21",
-    "norm_streams": 7.965,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 217,
     "artist": "MØ",
     "norm_streams": 7.963,
     "peak_year": 2014
-  },
-  {
-    "rank": 218,
-    "artist": "Macklemore & Ryan Lewis",
-    "norm_streams": 7.956,
-    "peak_year": "#N/A"
   },
   {
     "rank": 219,
@@ -1368,22 +1182,10 @@
     "peak_year": 2013
   },
   {
-    "rank": 229,
-    "artist": "Chris Jeday",
-    "norm_streams": 7.705,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 230,
     "artist": "Nacho",
     "norm_streams": 7.698,
     "peak_year": 1982
-  },
-  {
-    "rank": 231,
-    "artist": "RAF Camora",
-    "norm_streams": 7.675,
-    "peak_year": "#N/A"
   },
   {
     "rank": 232,
@@ -1428,22 +1230,10 @@
     "peak_year": 2003
   },
   {
-    "rank": 239,
-    "artist": "Guns N' Roses",
-    "norm_streams": 7.576,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 240,
     "artist": "Ne-Yo",
     "norm_streams": 7.557,
     "peak_year": 2008
-  },
-  {
-    "rank": 241,
-    "artist": "Banda Sinaloense MS de Sergio Lizárraga",
-    "norm_streams": 7.473,
-    "peak_year": "#N/A"
   },
   {
     "rank": 242,
@@ -1474,12 +1264,6 @@
     "artist": "5 Seconds of Summer",
     "norm_streams": 7.322,
     "peak_year": 2014
-  },
-  {
-    "rank": 247,
-    "artist": "Arcangel",
-    "norm_streams": 7.319,
-    "peak_year": "#N/A"
   },
   {
     "rank": 248,
@@ -1518,22 +1302,10 @@
     "peak_year": 2014
   },
   {
-    "rank": 254,
-    "artist": "Marshmello",
-    "norm_streams": 6.977,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 255,
     "artist": "Damso",
     "norm_streams": 6.97,
     "peak_year": 2016
-  },
-  {
-    "rank": 256,
-    "artist": "Nick Jonas",
-    "norm_streams": 6.969,
-    "peak_year": "#N/A"
   },
   {
     "rank": 257,
@@ -1542,34 +1314,16 @@
     "peak_year": 2015
   },
   {
-    "rank": 258,
-    "artist": "Tiësto",
-    "norm_streams": 6.925,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 259,
     "artist": "All Time Low",
     "norm_streams": 6.913,
     "peak_year": 2009
   },
   {
-    "rank": 260,
-    "artist": "A$AP Mob",
-    "norm_streams": 6.902,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 261,
     "artist": "AJR",
     "norm_streams": 6.87,
     "peak_year": 2017
-  },
-  {
-    "rank": 262,
-    "artist": "The Black Eyed Peas",
-    "norm_streams": 6.854,
-    "peak_year": "#N/A"
   },
   {
     "rank": 263,
@@ -1650,12 +1404,6 @@
     "peak_year": 2013
   },
   {
-    "rank": 276,
-    "artist": "DRAM",
-    "norm_streams": 6.543,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 277,
     "artist": "Disturbed",
     "norm_streams": 6.508,
@@ -1716,12 +1464,6 @@
     "peak_year": 2006
   },
   {
-    "rank": 287,
-    "artist": "Mike Posner",
-    "norm_streams": 6.396,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 288,
     "artist": "Marília Mendonça",
     "norm_streams": 6.387,
@@ -1764,12 +1506,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 295,
-    "artist": "Jul",
-    "norm_streams": 6.322,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 296,
     "artist": "Diplo",
     "norm_streams": 6.311,
@@ -1786,12 +1522,6 @@
     "artist": "Roy Woods",
     "norm_streams": 6.303,
     "peak_year": 2016
-  },
-  {
-    "rank": 299,
-    "artist": "DJ Luian",
-    "norm_streams": 6.285,
-    "peak_year": "#N/A"
   },
   {
     "rank": 300,
@@ -1860,22 +1590,10 @@
     "peak_year": 2017
   },
   {
-    "rank": 311,
-    "artist": "Anitta",
-    "norm_streams": 6.098,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 312,
     "artist": "Carlos Vives",
     "norm_streams": 6.081,
     "peak_year": 1993
-  },
-  {
-    "rank": 313,
-    "artist": "Bruno Martini",
-    "norm_streams": 6.053,
-    "peak_year": "#N/A"
   },
   {
     "rank": 314,
@@ -1890,22 +1608,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 316,
-    "artist": "Leslie Odom Jr.",
-    "norm_streams": 6.001,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 317,
     "artist": "Ella Eyre",
     "norm_streams": 5.979,
     "peak_year": 2015
-  },
-  {
-    "rank": 318,
-    "artist": "Mike WiLL Made-It",
-    "norm_streams": 5.936,
-    "peak_year": "#N/A"
   },
   {
     "rank": 319,
@@ -1932,22 +1638,10 @@
     "peak_year": 2011
   },
   {
-    "rank": 323,
-    "artist": "JAY Z",
-    "norm_streams": 5.868,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 324,
     "artist": "Jason Mraz",
     "norm_streams": 5.833,
     "peak_year": 2008
-  },
-  {
-    "rank": 325,
-    "artist": "Mc Livinho",
-    "norm_streams": 5.787,
-    "peak_year": "#N/A"
   },
   {
     "rank": 326,
@@ -1980,18 +1674,6 @@
     "peak_year": 2003
   },
   {
-    "rank": 331,
-    "artist": "Gue Pequeno",
-    "norm_streams": 5.738,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 332,
-    "artist": "Mike Perry",
-    "norm_streams": 5.711,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 333,
     "artist": "Christina Aguilera",
     "norm_streams": 5.694,
@@ -2004,12 +1686,6 @@
     "peak_year": 2001
   },
   {
-    "rank": 335,
-    "artist": "gnash",
-    "norm_streams": 5.63,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 336,
     "artist": "Rick Ross",
     "norm_streams": 5.592,
@@ -2020,12 +1696,6 @@
     "artist": "Cali Y El Dandee",
     "norm_streams": 5.556,
     "peak_year": 2012
-  },
-  {
-    "rank": 338,
-    "artist": "1Kilo",
-    "norm_streams": 5.545,
-    "peak_year": "#N/A"
   },
   {
     "rank": 339,
@@ -2088,22 +1758,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 349,
-    "artist": "Kevin Roldan",
-    "norm_streams": 5.464,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 350,
     "artist": "Hollywood Undead",
     "norm_streams": 5.399,
     "peak_year": 2008
-  },
-  {
-    "rank": 351,
-    "artist": "Train",
-    "norm_streams": 5.397,
-    "peak_year": "#N/A"
   },
   {
     "rank": 352,
@@ -2220,18 +1878,6 @@
     "peak_year": 2010
   },
   {
-    "rank": 371,
-    "artist": "Sofia Carson",
-    "norm_streams": 5.095,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 372,
-    "artist": "YoungBoy Never Broke Again",
-    "norm_streams": 5.074,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 373,
     "artist": "A Day To Remember",
     "norm_streams": 5.047,
@@ -2268,12 +1914,6 @@
     "peak_year": 2010
   },
   {
-    "rank": 379,
-    "artist": "Kodaline",
-    "norm_streams": 4.99,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 380,
     "artist": "Dove Cameron",
     "norm_streams": 4.952,
@@ -2292,12 +1932,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 383,
-    "artist": "Old Dominion",
-    "norm_streams": 4.924,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 384,
     "artist": "Alejandro Fernandez",
     "norm_streams": 4.915,
@@ -2308,12 +1942,6 @@
     "artist": "Ronnie Flex",
     "norm_streams": 4.915,
     "peak_year": 2011
-  },
-  {
-    "rank": 386,
-    "artist": "A$AP Ferg",
-    "norm_streams": 4.914,
-    "peak_year": "#N/A"
   },
   {
     "rank": 387,
@@ -2328,22 +1956,10 @@
     "peak_year": 2001
   },
   {
-    "rank": 389,
-    "artist": "MC WM",
-    "norm_streams": 4.841,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 390,
     "artist": "Two Door Cinema Club",
     "norm_streams": 4.805,
     "peak_year": 2012
-  },
-  {
-    "rank": 391,
-    "artist": "Gerardo Ortiz",
-    "norm_streams": 4.8,
-    "peak_year": "#N/A"
   },
   {
     "rank": 392,
@@ -2386,12 +2002,6 @@
     "artist": "Blake Shelton",
     "norm_streams": 4.724,
     "peak_year": 2001
-  },
-  {
-    "rank": 399,
-    "artist": "Smokepurpp",
-    "norm_streams": 4.713,
-    "peak_year": "#N/A"
   },
   {
     "rank": 400,
@@ -2544,12 +2154,6 @@
     "peak_year": 2000
   },
   {
-    "rank": 425,
-    "artist": "Poo Bear",
-    "norm_streams": 4.459,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 426,
     "artist": "Niska",
     "norm_streams": 4.456,
@@ -2566,12 +2170,6 @@
     "artist": "Henrique & Diego",
     "norm_streams": 4.446,
     "peak_year": 2013
-  },
-  {
-    "rank": 429,
-    "artist": "Bibi Blocksberg",
-    "norm_streams": 4.435,
-    "peak_year": "#N/A"
   },
   {
     "rank": 430,
@@ -2596,18 +2194,6 @@
     "artist": "The Kooks",
     "norm_streams": 4.421,
     "peak_year": 2008
-  },
-  {
-    "rank": 434,
-    "artist": "Mambo Kingz",
-    "norm_streams": 4.408,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 435,
-    "artist": "WizKid",
-    "norm_streams": 4.383,
-    "peak_year": "#N/A"
   },
   {
     "rank": 436,
@@ -2694,12 +2280,6 @@
     "peak_year": 2003
   },
   {
-    "rank": 450,
-    "artist": "Juicy J",
-    "norm_streams": 4.218,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 451,
     "artist": "Deorro",
     "norm_streams": 4.217,
@@ -2716,12 +2296,6 @@
     "artist": "Creedence Clearwater Revival",
     "norm_streams": 4.189,
     "peak_year": 1969
-  },
-  {
-    "rank": 454,
-    "artist": "Bushido",
-    "norm_streams": 4.186,
-    "peak_year": "#N/A"
   },
   {
     "rank": 455,
@@ -2748,12 +2322,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 459,
-    "artist": "Calibre 50",
-    "norm_streams": 4.136,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 460,
     "artist": "Ricky Martin",
     "norm_streams": 4.132,
@@ -2778,12 +2346,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 464,
-    "artist": "Bibi und Tina",
-    "norm_streams": 4.056,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 465,
     "artist": "BIGBANG",
     "norm_streams": 4.054,
@@ -2806,12 +2368,6 @@
     "artist": "Summer Cem",
     "norm_streams": 4.044,
     "peak_year": 2014
-  },
-  {
-    "rank": 469,
-    "artist": "Wisin & Yandel",
-    "norm_streams": 4.024,
-    "peak_year": "#N/A"
   },
   {
     "rank": 470,
@@ -2868,12 +2424,6 @@
     "peak_year": 1983
   },
   {
-    "rank": 479,
-    "artist": "Girls' Generation",
-    "norm_streams": 3.943,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 480,
     "artist": "Weezer",
     "norm_streams": 3.938,
@@ -2884,12 +2434,6 @@
     "artist": "The Black Keys",
     "norm_streams": 3.91,
     "peak_year": 2011
-  },
-  {
-    "rank": 482,
-    "artist": "Miguel",
-    "norm_streams": 3.909,
-    "peak_year": "#N/A"
   },
   {
     "rank": 483,
@@ -2920,12 +2464,6 @@
     "artist": "Dierks Bentley",
     "norm_streams": 3.872,
     "peak_year": 2006
-  },
-  {
-    "rank": 488,
-    "artist": "Lary Over",
-    "norm_streams": 3.867,
-    "peak_year": "#N/A"
   },
   {
     "rank": 489,
@@ -2964,18 +2502,6 @@
     "peak_year": 2005
   },
   {
-    "rank": 495,
-    "artist": "Marina and the Diamonds",
-    "norm_streams": 3.791,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 496,
-    "artist": "Why Don't We",
-    "norm_streams": 3.763,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 497,
     "artist": "James TW",
     "norm_streams": 3.752,
@@ -3012,18 +2538,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 503,
-    "artist": "Los Plebes del Rancho de Ariel Camacho",
-    "norm_streams": 3.708,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 504,
-    "artist": "Maiara & Maraisa",
-    "norm_streams": 3.704,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 505,
     "artist": "Burak Yeter",
     "norm_streams": 3.703,
@@ -3042,12 +2556,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 508,
-    "artist": "Simone & Simaria",
-    "norm_streams": 3.693,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 509,
     "artist": "Luis Miguel",
     "norm_streams": 3.69,
@@ -3060,22 +2568,10 @@
     "peak_year": 2012
   },
   {
-    "rank": 511,
-    "artist": "TKKG",
-    "norm_streams": 3.674,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 512,
     "artist": "Bethel Music",
     "norm_streams": 3.666,
     "peak_year": 2015
-  },
-  {
-    "rank": 513,
-    "artist": "Jhene Aiko",
-    "norm_streams": 3.651,
-    "peak_year": "#N/A"
   },
   {
     "rank": 514,
@@ -3088,18 +2584,6 @@
     "artist": "Shinedown",
     "norm_streams": 3.606,
     "peak_year": 2008
-  },
-  {
-    "rank": 516,
-    "artist": "Booboo Stewart",
-    "norm_streams": 3.588,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 517,
-    "artist": "Cameron Boyce",
-    "norm_streams": 3.587,
-    "peak_year": "#N/A"
   },
   {
     "rank": 518,
@@ -3118,12 +2602,6 @@
     "artist": "Phil Collins",
     "norm_streams": 3.566,
     "peak_year": 1985
-  },
-  {
-    "rank": 521,
-    "artist": "High School Musical Cast",
-    "norm_streams": 3.56,
-    "peak_year": "#N/A"
   },
   {
     "rank": 522,
@@ -3160,18 +2638,6 @@
     "artist": "The All-American Rejects",
     "norm_streams": 3.503,
     "peak_year": 2005
-  },
-  {
-    "rank": 528,
-    "artist": "La Arrolladora Banda El Limón De Rene Camacho",
-    "norm_streams": 3.502,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 529,
-    "artist": "Reykon",
-    "norm_streams": 3.499,
-    "peak_year": "#N/A"
   },
   {
     "rank": 530,
@@ -3222,12 +2688,6 @@
     "peak_year": 2007
   },
   {
-    "rank": 538,
-    "artist": "Christian Nodal",
-    "norm_streams": 3.386,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 539,
     "artist": "SEVENTEEN",
     "norm_streams": 3.381,
@@ -3252,12 +2712,6 @@
     "peak_year": 1976
   },
   {
-    "rank": 543,
-    "artist": "Christopher Jackson",
-    "norm_streams": 3.371,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 544,
     "artist": "Jesse & Joy",
     "norm_streams": 3.37,
@@ -3270,28 +2724,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 546,
-    "artist": "Rain Sounds",
-    "norm_streams": 3.352,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 547,
     "artist": "Colbie Caillat",
     "norm_streams": 3.328,
     "peak_year": 2007
-  },
-  {
-    "rank": 548,
-    "artist": "Justin Quiles",
-    "norm_streams": 3.326,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 549,
-    "artist": "Brett Young",
-    "norm_streams": 3.322,
-    "peak_year": "#N/A"
   },
   {
     "rank": 550,
@@ -3310,12 +2746,6 @@
     "artist": "Ice Cube",
     "norm_streams": 3.31,
     "peak_year": 1993
-  },
-  {
-    "rank": 553,
-    "artist": "Alfredo Olivas",
-    "norm_streams": 3.304,
-    "peak_year": "#N/A"
   },
   {
     "rank": 554,
@@ -3366,28 +2796,10 @@
     "peak_year": 1987
   },
   {
-    "rank": 562,
-    "artist": "Auli'i Cravalho",
-    "norm_streams": 3.23,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 563,
-    "artist": "Disciples",
-    "norm_streams": 3.228,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 564,
     "artist": "Sean Kingston",
     "norm_streams": 3.224,
     "peak_year": 2007
-  },
-  {
-    "rank": 565,
-    "artist": "Alta Consigna",
-    "norm_streams": 3.223,
-    "peak_year": "#N/A"
   },
   {
     "rank": 566,
@@ -3426,12 +2838,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 572,
-    "artist": "Daniel Caesar",
-    "norm_streams": 3.201,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 573,
     "artist": "Quavo",
     "norm_streams": 3.201,
@@ -3444,22 +2850,10 @@
     "peak_year": 2010
   },
   {
-    "rank": 575,
-    "artist": "Jake Paul",
-    "norm_streams": 3.197,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 576,
     "artist": "AlunaGeorge",
     "norm_streams": 3.197,
     "peak_year": 2013
-  },
-  {
-    "rank": 577,
-    "artist": "Okieriete Onaodowan",
-    "norm_streams": 3.194,
-    "peak_year": "#N/A"
   },
   {
     "rank": 578,
@@ -3480,12 +2874,6 @@
     "peak_year": 2017
   },
   {
-    "rank": 581,
-    "artist": "Capital Bra",
-    "norm_streams": 3.173,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 582,
     "artist": "Noah Cyrus",
     "norm_streams": 3.166,
@@ -3496,18 +2884,6 @@
     "artist": "Pearl Jam",
     "norm_streams": 3.165,
     "peak_year": 2006
-  },
-  {
-    "rank": 584,
-    "artist": "William Singe",
-    "norm_streams": 3.161,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 585,
-    "artist": "Phora",
-    "norm_streams": 3.152,
-    "peak_year": "#N/A"
   },
   {
     "rank": 586,
@@ -3526,24 +2902,6 @@
     "artist": "Lecrae",
     "norm_streams": 3.145,
     "peak_year": 2010
-  },
-  {
-    "rank": 589,
-    "artist": "MC G15",
-    "norm_streams": 3.143,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 590,
-    "artist": "Kaleo",
-    "norm_streams": 3.142,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 591,
-    "artist": "Noriel",
-    "norm_streams": 3.141,
-    "peak_year": "#N/A"
   },
   {
     "rank": 592,
@@ -3574,12 +2932,6 @@
     "artist": "Stevie Wonder",
     "norm_streams": 3.126,
     "peak_year": 1972
-  },
-  {
-    "rank": 597,
-    "artist": "Ricegum",
-    "norm_streams": 3.118,
-    "peak_year": "#N/A"
   },
   {
     "rank": 598,
@@ -3624,34 +2976,16 @@
     "peak_year": 1976
   },
   {
-    "rank": 605,
-    "artist": "Ben Howard",
-    "norm_streams": 3.07,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 606,
     "artist": "Oliver Heldens",
     "norm_streams": 3.066,
     "peak_year": 2015
   },
   {
-    "rank": 607,
-    "artist": "Phillipa Soo",
-    "norm_streams": 3.058,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 608,
     "artist": "Anderson .Paak",
     "norm_streams": 3.055,
     "peak_year": 2016
-  },
-  {
-    "rank": 609,
-    "artist": "Anthony Ramos",
-    "norm_streams": 3.05,
-    "peak_year": "#N/A"
   },
   {
     "rank": 610,
@@ -3684,22 +3018,10 @@
     "peak_year": 2005
   },
   {
-    "rank": 615,
-    "artist": "Iron Maiden",
-    "norm_streams": 3.024,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 616,
     "artist": "The Pussycat Dolls",
     "norm_streams": 3.023,
     "peak_year": 2008
-  },
-  {
-    "rank": 617,
-    "artist": "MAX",
-    "norm_streams": 3.017,
-    "peak_year": "#N/A"
   },
   {
     "rank": 618,
@@ -3718,12 +3040,6 @@
     "artist": "Isaiah Rashad",
     "norm_streams": 3.004,
     "peak_year": 2014
-  },
-  {
-    "rank": 621,
-    "artist": "Jory Boy",
-    "norm_streams": 2.998,
-    "peak_year": "#N/A"
   },
   {
     "rank": 622,
@@ -3750,12 +3066,6 @@
     "peak_year": 1985
   },
   {
-    "rank": 626,
-    "artist": "Hight",
-    "norm_streams": 2.977,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 627,
     "artist": "Volbeat",
     "norm_streams": 2.965,
@@ -3766,12 +3076,6 @@
     "artist": "Tom Odell",
     "norm_streams": 2.963,
     "peak_year": 2013
-  },
-  {
-    "rank": 629,
-    "artist": "HAIM",
-    "norm_streams": 2.962,
-    "peak_year": "#N/A"
   },
   {
     "rank": 630,
@@ -3786,22 +3090,10 @@
     "peak_year": 2005
   },
   {
-    "rank": 632,
-    "artist": "Mike Stud",
-    "norm_streams": 2.953,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 633,
     "artist": "DMX",
     "norm_streams": 2.952,
     "peak_year": 1998
-  },
-  {
-    "rank": 634,
-    "artist": "Royal Blood",
-    "norm_streams": 2.942,
-    "peak_year": "#N/A"
   },
   {
     "rank": 635,
@@ -3832,12 +3124,6 @@
     "artist": "Charlie Brown Jr.",
     "norm_streams": 2.917,
     "peak_year": 2012
-  },
-  {
-    "rank": 640,
-    "artist": "Ruth B.",
-    "norm_streams": 2.914,
-    "peak_year": "#N/A"
   },
   {
     "rank": 641,
@@ -3888,12 +3174,6 @@
     "peak_year": 2012
   },
   {
-    "rank": 649,
-    "artist": "Thirty Seconds To Mars",
-    "norm_streams": 2.875,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 650,
     "artist": "Marvin Gaye",
     "norm_streams": 2.871,
@@ -3904,12 +3184,6 @@
     "artist": "Duke Dumont",
     "norm_streams": 2.867,
     "peak_year": 2014
-  },
-  {
-    "rank": 652,
-    "artist": "John Williams",
-    "norm_streams": 2.865,
-    "peak_year": "#N/A"
   },
   {
     "rank": 653,
@@ -3930,28 +3204,10 @@
     "peak_year": 2014
   },
   {
-    "rank": 656,
-    "artist": "Witt Lowry",
-    "norm_streams": 2.838,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 657,
     "artist": "Niro",
     "norm_streams": 2.829,
     "peak_year": 1995
-  },
-  {
-    "rank": 658,
-    "artist": "Die drei !!!",
-    "norm_streams": 2.827,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 659,
-    "artist": "Whethan",
-    "norm_streams": 2.812,
-    "peak_year": "#N/A"
   },
   {
     "rank": 660,
@@ -3990,22 +3246,10 @@
     "peak_year": 1981
   },
   {
-    "rank": 666,
-    "artist": "Nego do Borel",
-    "norm_streams": 2.792,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 667,
     "artist": "ABBA",
     "norm_streams": 2.781,
     "peak_year": 1979
-  },
-  {
-    "rank": 668,
-    "artist": "MC Fioti",
-    "norm_streams": 2.78,
-    "peak_year": "#N/A"
   },
   {
     "rank": 669,
@@ -4050,18 +3294,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 676,
-    "artist": "KARD",
-    "norm_streams": 2.749,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 677,
-    "artist": "Hungria Hip Hop",
-    "norm_streams": 2.745,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 678,
     "artist": "EDEN",
     "norm_streams": 2.739,
@@ -4086,40 +3318,10 @@
     "peak_year": 1999
   },
   {
-    "rank": 682,
-    "artist": "Christian Daniel",
-    "norm_streams": 2.721,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 683,
-    "artist": "Booba",
-    "norm_streams": 2.719,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 684,
     "artist": "Tinie Tempah",
     "norm_streams": 2.713,
     "peak_year": 2010
-  },
-  {
-    "rank": 685,
-    "artist": "Banda El Recodo",
-    "norm_streams": 2.704,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 686,
-    "artist": "Rob $tone",
-    "norm_streams": 2.701,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 687,
-    "artist": "Brytiago",
-    "norm_streams": 2.696,
-    "peak_year": "#N/A"
   },
   {
     "rank": 688,
@@ -4212,12 +3414,6 @@
     "peak_year": 1995
   },
   {
-    "rank": 703,
-    "artist": "Río Roma",
-    "norm_streams": 2.652,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 704,
     "artist": "Phoenix",
     "norm_streams": 2.65,
@@ -4254,40 +3450,16 @@
     "peak_year": 1998
   },
   {
-    "rank": 710,
-    "artist": "Maxwell",
-    "norm_streams": 2.633,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 711,
     "artist": "JoJo",
     "norm_streams": 2.629,
     "peak_year": 2000
   },
   {
-    "rank": 712,
-    "artist": "Mitchell Hope",
-    "norm_streams": 2.627,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 713,
-    "artist": "Hannah Montana",
-    "norm_streams": 2.626,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 714,
     "artist": "The Beach Boys",
     "norm_streams": 2.608,
     "peak_year": 1966
-  },
-  {
-    "rank": 715,
-    "artist": "Revol",
-    "norm_streams": 2.604,
-    "peak_year": "#N/A"
   },
   {
     "rank": 716,
@@ -4308,12 +3480,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 719,
-    "artist": "Ben Platt",
-    "norm_streams": 2.589,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 720,
     "artist": "Natalia Lafourcade",
     "norm_streams": 2.586,
@@ -4324,12 +3490,6 @@
     "artist": "Showtek",
     "norm_streams": 2.571,
     "peak_year": 2009
-  },
-  {
-    "rank": 722,
-    "artist": "Nengo Flow",
-    "norm_streams": 2.562,
-    "peak_year": "#N/A"
   },
   {
     "rank": 723,
@@ -4350,12 +3510,6 @@
     "peak_year": 1984
   },
   {
-    "rank": 726,
-    "artist": "China Anne McClain",
-    "norm_streams": 2.556,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 727,
     "artist": "Lindsey Stirling",
     "norm_streams": 2.555,
@@ -4366,12 +3520,6 @@
     "artist": "Hillsong Young & Free",
     "norm_streams": 2.553,
     "peak_year": 2013
-  },
-  {
-    "rank": 729,
-    "artist": "周杰倫",
-    "norm_streams": 2.551,
-    "peak_year": "#N/A"
   },
   {
     "rank": 730,
@@ -4392,34 +3540,10 @@
     "peak_year": 2014
   },
   {
-    "rank": 733,
-    "artist": "Josh Turner",
-    "norm_streams": 2.541,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 734,
-    "artist": "Haikaiss",
-    "norm_streams": 2.537,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 735,
     "artist": "Falling In Reverse",
     "norm_streams": 2.535,
     "peak_year": 2011
-  },
-  {
-    "rank": 736,
-    "artist": "Banks",
-    "norm_streams": 2.527,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 737,
-    "artist": "Knust",
-    "norm_streams": 2.527,
-    "peak_year": "#N/A"
   },
   {
     "rank": 738,
@@ -4458,28 +3582,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 744,
-    "artist": "Pablo Martins",
-    "norm_streams": 2.504,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 745,
-    "artist": "El Fantasma",
-    "norm_streams": 2.5,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 746,
     "artist": "Grouplove",
     "norm_streams": 2.496,
     "peak_year": 2011
-  },
-  {
-    "rank": 747,
-    "artist": "Virlan Garcia",
-    "norm_streams": 2.493,
-    "peak_year": "#N/A"
   },
   {
     "rank": 748,
@@ -4506,18 +3612,6 @@
     "peak_year": 2006
   },
   {
-    "rank": 752,
-    "artist": "Bigflo & Oli",
-    "norm_streams": 2.483,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 753,
-    "artist": "Mc Don Juan",
-    "norm_streams": 2.482,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 754,
     "artist": "fun.",
     "norm_streams": 2.482,
@@ -4528,18 +3622,6 @@
     "artist": "Jay Sean",
     "norm_streams": 2.48,
     "peak_year": 2009
-  },
-  {
-    "rank": 756,
-    "artist": "Pepe Quintana",
-    "norm_streams": 2.473,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 757,
-    "artist": "Juan Magán",
-    "norm_streams": 2.473,
-    "peak_year": "#N/A"
   },
   {
     "rank": 758,
@@ -4560,12 +3642,6 @@
     "peak_year": 2002
   },
   {
-    "rank": 761,
-    "artist": "Daya",
-    "norm_streams": 2.467,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 762,
     "artist": "Alan Jackson",
     "norm_streams": 2.462,
@@ -4582,12 +3658,6 @@
     "artist": "Nas",
     "norm_streams": 2.459,
     "peak_year": 1996
-  },
-  {
-    "rank": 765,
-    "artist": "Logan Paul",
-    "norm_streams": 2.455,
-    "peak_year": "#N/A"
   },
   {
     "rank": 766,
@@ -4636,12 +3706,6 @@
     "artist": "Jaymes Young",
     "norm_streams": 2.413,
     "peak_year": 2017
-  },
-  {
-    "rank": 774,
-    "artist": "Tinashe",
-    "norm_streams": 2.41,
-    "peak_year": "#N/A"
   },
   {
     "rank": 775,
@@ -4708,12 +3772,6 @@
     "artist": "Simon & Garfunkel",
     "norm_streams": 2.373,
     "peak_year": 1970
-  },
-  {
-    "rank": 786,
-    "artist": "K.I.Z",
-    "norm_streams": 2.37,
-    "peak_year": "#N/A"
   },
   {
     "rank": 787,
@@ -4800,40 +3858,10 @@
     "peak_year": 2015
   },
   {
-    "rank": 801,
-    "artist": "Monsta X",
-    "norm_streams": 2.319,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 802,
-    "artist": "Maître Gims",
-    "norm_streams": 2.318,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 803,
     "artist": "Smash Mouth",
     "norm_streams": 2.309,
     "peak_year": 1999
-  },
-  {
-    "rank": 804,
-    "artist": "Dylan Scott",
-    "norm_streams": 2.305,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 805,
-    "artist": "Dirty Heads",
-    "norm_streams": 2.303,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 806,
-    "artist": "Leo Santana",
-    "norm_streams": 2.298,
-    "peak_year": "#N/A"
   },
   {
     "rank": 807,
@@ -4932,12 +3960,6 @@
     "peak_year": 2000
   },
   {
-    "rank": 823,
-    "artist": "Vicente Fernández",
-    "norm_streams": 2.257,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 824,
     "artist": "deadmau5",
     "norm_streams": 2.254,
@@ -4984,12 +4006,6 @@
     "artist": "American Authors",
     "norm_streams": 2.236,
     "peak_year": 2013
-  },
-  {
-    "rank": 832,
-    "artist": "Banda Los Recoditos",
-    "norm_streams": 2.233,
-    "peak_year": "#N/A"
   },
   {
     "rank": 833,
@@ -5058,12 +4074,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 844,
-    "artist": "Theory of a Deadman",
-    "norm_streams": 2.199,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 845,
     "artist": "Bakermat",
     "norm_streams": 2.199,
@@ -5080,12 +4090,6 @@
     "artist": "Swedish House Mafia",
     "norm_streams": 2.192,
     "peak_year": 2011
-  },
-  {
-    "rank": 848,
-    "artist": "Baviera",
-    "norm_streams": 2.191,
-    "peak_year": "#N/A"
   },
   {
     "rank": 849,
@@ -5110,12 +4114,6 @@
     "artist": "Shania Twain",
     "norm_streams": 2.179,
     "peak_year": 1997
-  },
-  {
-    "rank": 853,
-    "artist": "Russell Dickerson",
-    "norm_streams": 2.179,
-    "peak_year": "#N/A"
   },
   {
     "rank": 854,
@@ -5178,18 +4176,6 @@
     "peak_year": 2004
   },
   {
-    "rank": 864,
-    "artist": "The Goo Goo Dolls",
-    "norm_streams": 2.152,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 865,
-    "artist": "Young Money",
-    "norm_streams": 2.152,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 866,
     "artist": "Salmo",
     "norm_streams": 2.145,
@@ -5214,12 +4200,6 @@
     "peak_year": 2003
   },
   {
-    "rank": 870,
-    "artist": "Hearts & Colors",
-    "norm_streams": 2.14,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 871,
     "artist": "Rich Homie Quan",
     "norm_streams": 2.139,
@@ -5230,12 +4210,6 @@
     "artist": "KAYTRANADA",
     "norm_streams": 2.139,
     "peak_year": 2013
-  },
-  {
-    "rank": 873,
-    "artist": "Lily Allen",
-    "norm_streams": 2.136,
-    "peak_year": "#N/A"
   },
   {
     "rank": 874,
@@ -5286,12 +4260,6 @@
     "peak_year": 2015
   },
   {
-    "rank": 882,
-    "artist": "Luke Christopher",
-    "norm_streams": 2.118,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 883,
     "artist": "SCH",
     "norm_streams": 2.117,
@@ -5308,12 +4276,6 @@
     "artist": "Marian Hill",
     "norm_streams": 2.114,
     "peak_year": 2016
-  },
-  {
-    "rank": 886,
-    "artist": "DJ Nelson",
-    "norm_streams": 2.114,
-    "peak_year": "#N/A"
   },
   {
     "rank": 887,
@@ -5382,36 +4344,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 898,
-    "artist": "Lil Jon",
-    "norm_streams": 2.084,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 899,
-    "artist": "Mark Forster",
-    "norm_streams": 2.083,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 900,
-    "artist": "Tay-K",
-    "norm_streams": 2.082,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 901,
-    "artist": "Trippie Redd",
-    "norm_streams": 2.08,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 902,
-    "artist": "Thomas Doherty",
-    "norm_streams": 2.078,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 903,
     "artist": "Electric Light Orchestra",
     "norm_streams": 2.07,
@@ -5424,12 +4356,6 @@
     "peak_year": 2017
   },
   {
-    "rank": 905,
-    "artist": "Ulices Chaidez Y Sus Plebes",
-    "norm_streams": 2.069,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 906,
     "artist": "Keane",
     "norm_streams": 2.068,
@@ -5440,12 +4366,6 @@
     "artist": "Kelsea Ballerini",
     "norm_streams": 2.063,
     "peak_year": 2015
-  },
-  {
-    "rank": 908,
-    "artist": "Kurdo",
-    "norm_streams": 2.062,
-    "peak_year": "#N/A"
   },
   {
     "rank": 909,
@@ -5508,12 +4428,6 @@
     "peak_year": 2017
   },
   {
-    "rank": 919,
-    "artist": "Yelawolf",
-    "norm_streams": 2.029,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 920,
     "artist": "Emily Warren",
     "norm_streams": 2.024,
@@ -5566,12 +4480,6 @@
     "artist": "Damian Marley",
     "norm_streams": 2,
     "peak_year": 2005
-  },
-  {
-    "rank": 929,
-    "artist": "OMI",
-    "norm_streams": 1.999,
-    "peak_year": "#N/A"
   },
   {
     "rank": 930,
@@ -5640,12 +4548,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 941,
-    "artist": "NexXthursday",
-    "norm_streams": 1.978,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 942,
     "artist": "G-DRAGON",
     "norm_streams": 1.978,
@@ -5676,12 +4578,6 @@
     "peak_year": 2007
   },
   {
-    "rank": 947,
-    "artist": "La Adictiva Banda San José de Mesillas",
-    "norm_streams": 1.965,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 948,
     "artist": "Set It Off",
     "norm_streams": 1.964,
@@ -5704,12 +4600,6 @@
     "artist": "Icona Pop",
     "norm_streams": 1.958,
     "peak_year": 2013
-  },
-  {
-    "rank": 952,
-    "artist": "WWE",
-    "norm_streams": 1.958,
-    "peak_year": "#N/A"
   },
   {
     "rank": 953,
@@ -5760,18 +4650,6 @@
     "peak_year": 2007
   },
   {
-    "rank": 961,
-    "artist": "Maneva",
-    "norm_streams": 1.939,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 962,
-    "artist": "Remy Ma",
-    "norm_streams": 1.939,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 963,
     "artist": "Daughtry",
     "norm_streams": 1.938,
@@ -5808,12 +4686,6 @@
     "peak_year": 2013
   },
   {
-    "rank": 969,
-    "artist": "Die drei ??? Kids",
-    "norm_streams": 1.925,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 970,
     "artist": "Anna Kendrick",
     "norm_streams": 1.925,
@@ -5832,12 +4704,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 973,
-    "artist": "Xantos",
-    "norm_streams": 1.921,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 974,
     "artist": "Mr. Probz",
     "norm_streams": 1.917,
@@ -5854,18 +4720,6 @@
     "artist": "Angus & Julia Stone",
     "norm_streams": 1.916,
     "peak_year": 2014
-  },
-  {
-    "rank": 977,
-    "artist": "Gilli",
-    "norm_streams": 1.911,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 978,
-    "artist": "IAmChino",
-    "norm_streams": 1.907,
-    "peak_year": "#N/A"
   },
   {
     "rank": 979,
@@ -5910,12 +4764,6 @@
     "peak_year": 1976
   },
   {
-    "rank": 986,
-    "artist": "Dread Mar I",
-    "norm_streams": 1.891,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 987,
     "artist": "RIN",
     "norm_streams": 1.891,
@@ -5958,28 +4806,10 @@
     "peak_year": 2017
   },
   {
-    "rank": 994,
-    "artist": "Dylan Playfair",
-    "norm_streams": 1.88,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 995,
     "artist": "Prince",
     "norm_streams": 1.877,
     "peak_year": 1987
-  },
-  {
-    "rank": 996,
-    "artist": "will.i.am",
-    "norm_streams": 1.875,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 997,
-    "artist": "PXNDX",
-    "norm_streams": 1.873,
-    "peak_year": "#N/A"
   },
   {
     "rank": 998,
@@ -6048,12 +4878,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 1009,
-    "artist": "Regulo Caro",
-    "norm_streams": 1.839,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1010,
     "artist": "M.I.A.",
     "norm_streams": 1.837,
@@ -6108,22 +4932,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 1019,
-    "artist": "Rilès",
-    "norm_streams": 1.822,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1020,
     "artist": "The Jackson 5",
     "norm_streams": 1.821,
     "peak_year": 1970
-  },
-  {
-    "rank": 1021,
-    "artist": "A$AP Twelvyy",
-    "norm_streams": 1.82,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1022,
@@ -6154,12 +4966,6 @@
     "artist": "Jeezy",
     "norm_streams": 1.808,
     "peak_year": 2013
-  },
-  {
-    "rank": 1028,
-    "artist": "Madilyn Bailey",
-    "norm_streams": 1.803,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1029,
@@ -6204,12 +5010,6 @@
     "peak_year": 1983
   },
   {
-    "rank": 1036,
-    "artist": "Turma do Pagode",
-    "norm_streams": 1.79,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1037,
     "artist": "Marcos & Belutti",
     "norm_streams": 1.789,
@@ -6250,12 +5050,6 @@
     "artist": "R.E.M.",
     "norm_streams": 1.771,
     "peak_year": 1991
-  },
-  {
-    "rank": 1044,
-    "artist": "MC Kekel",
-    "norm_streams": 1.765,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1045,
@@ -6336,12 +5130,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 1058,
-    "artist": "Ella Vos",
-    "norm_streams": 1.713,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1059,
     "artist": "Lifehouse",
     "norm_streams": 1.713,
@@ -6396,22 +5184,10 @@
     "peak_year": 2014
   },
   {
-    "rank": 1068,
-    "artist": "Lenin Ramírez",
-    "norm_streams": 1.699,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1069,
     "artist": "Saint Motel",
     "norm_streams": 1.696,
     "peak_year": 2014
-  },
-  {
-    "rank": 1070,
-    "artist": "Lartiste",
-    "norm_streams": 1.695,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1071,
@@ -6424,12 +5200,6 @@
     "artist": "Axwell",
     "norm_streams": 1.693,
     "peak_year": 2007
-  },
-  {
-    "rank": 1073,
-    "artist": "G4SHI",
-    "norm_streams": 1.69,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1074,
@@ -6546,28 +5316,10 @@
     "peak_year": 2013
   },
   {
-    "rank": 1093,
-    "artist": "Iron & Wine",
-    "norm_streams": 1.644,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1094,
-    "artist": "Rvssian",
-    "norm_streams": 1.643,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1095,
     "artist": "Craig David",
     "norm_streams": 1.642,
     "peak_year": 2000
-  },
-  {
-    "rank": 1096,
-    "artist": "Wordsplayed",
-    "norm_streams": 1.641,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1097,
@@ -6592,12 +5344,6 @@
     "artist": "Flatbush Zombies",
     "norm_streams": 1.63,
     "peak_year": 2016
-  },
-  {
-    "rank": 1101,
-    "artist": "Remmy Valenzuela",
-    "norm_streams": 1.628,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1102,
@@ -6636,22 +5382,10 @@
     "peak_year": 2013
   },
   {
-    "rank": 1108,
-    "artist": "Mario Bautista",
-    "norm_streams": 1.62,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1109,
     "artist": "Belly",
     "norm_streams": 1.62,
     "peak_year": 1995
-  },
-  {
-    "rank": 1110,
-    "artist": "Renée Elise Goldsberry",
-    "norm_streams": 1.62,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1111,
@@ -6738,22 +5472,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 1125,
-    "artist": "Jacob Forever",
-    "norm_streams": 1.603,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1126,
     "artist": "NGHTMRE",
     "norm_streams": 1.602,
     "peak_year": 2015
-  },
-  {
-    "rank": 1127,
-    "artist": "Mc Zaac",
-    "norm_streams": 1.595,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1128,
@@ -6762,34 +5484,10 @@
     "peak_year": 1996
   },
   {
-    "rank": 1129,
-    "artist": "Lenny Tavárez",
-    "norm_streams": 1.584,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1130,
-    "artist": "Os Cretinos",
-    "norm_streams": 1.583,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1131,
-    "artist": "El Komander",
-    "norm_streams": 1.582,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1132,
     "artist": "O Rappa",
     "norm_streams": 1.58,
     "peak_year": 1996
-  },
-  {
-    "rank": 1133,
-    "artist": "Emeli Sandé",
-    "norm_streams": 1.58,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1134,
@@ -6808,18 +5506,6 @@
     "artist": "a-ha",
     "norm_streams": 1.576,
     "peak_year": 1985
-  },
-  {
-    "rank": 1137,
-    "artist": "Valentín Elizalde",
-    "norm_streams": 1.575,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1138,
-    "artist": "Grateful Dead",
-    "norm_streams": 1.574,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1139,
@@ -6918,12 +5604,6 @@
     "peak_year": 1996
   },
   {
-    "rank": 1155,
-    "artist": "Magic & Bird",
-    "norm_streams": 1.556,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1156,
     "artist": "Columbine",
     "norm_streams": 1.555,
@@ -6940,12 +5620,6 @@
     "artist": "Micar",
     "norm_streams": 1.552,
     "peak_year": 2016
-  },
-  {
-    "rank": 1159,
-    "artist": "Yungen",
-    "norm_streams": 1.548,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1160,
@@ -6970,12 +5644,6 @@
     "artist": "Alice In Chains",
     "norm_streams": 1.534,
     "peak_year": 1992
-  },
-  {
-    "rank": 1164,
-    "artist": "Dean Lewis",
-    "norm_streams": 1.533,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1165,
@@ -7050,12 +5718,6 @@
     "peak_year": 2010
   },
   {
-    "rank": 1177,
-    "artist": "Bhaskar",
-    "norm_streams": 1.517,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1178,
     "artist": "Majoe",
     "norm_streams": 1.514,
@@ -7110,18 +5772,6 @@
     "peak_year": 2013
   },
   {
-    "rank": 1187,
-    "artist": "Zac Efron",
-    "norm_streams": 1.498,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1188,
-    "artist": "Elenco de Soy Luna",
-    "norm_streams": 1.496,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1189,
     "artist": "Van Morrison",
     "norm_streams": 1.496,
@@ -7138,12 +5788,6 @@
     "artist": "Kurt Hugo Schneider",
     "norm_streams": 1.495,
     "peak_year": 2015
-  },
-  {
-    "rank": 1192,
-    "artist": "Emma Stone",
-    "norm_streams": 1.492,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1193,
@@ -7188,12 +5832,6 @@
     "peak_year": 2011
   },
   {
-    "rank": 1200,
-    "artist": "Andy Rivera",
-    "norm_streams": 1.481,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1201,
     "artist": "Keith Ape",
     "norm_streams": 1.481,
@@ -7206,28 +5844,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 1203,
-    "artist": "Edward Sharpe & The Magnetic Zeros",
-    "norm_streams": 1.48,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1204,
     "artist": "Tiziano Ferro",
     "norm_streams": 1.479,
     "peak_year": 2003
-  },
-  {
-    "rank": 1205,
-    "artist": "Of Mice & Men",
-    "norm_streams": 1.478,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1206,
-    "artist": "IU",
-    "norm_streams": 1.477,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1207,
@@ -7242,34 +5862,16 @@
     "peak_year": 2008
   },
   {
-    "rank": 1209,
-    "artist": "Hornet La Frappe",
-    "norm_streams": 1.474,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1210,
     "artist": "Yellowcard",
     "norm_streams": 1.472,
     "peak_year": 2003
   },
   {
-    "rank": 1211,
-    "artist": "Los Enanitos Verdes",
-    "norm_streams": 1.471,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1212,
     "artist": "KESI",
     "norm_streams": 1.47,
     "peak_year": 2017
-  },
-  {
-    "rank": 1213,
-    "artist": "Tito \"El Bambino",
-    "norm_streams": 1.468,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1214,
@@ -7336,12 +5938,6 @@
     "artist": "Jesus Culture",
     "norm_streams": 1.454,
     "peak_year": 2009
-  },
-  {
-    "rank": 1225,
-    "artist": "Sherlock Holmes",
-    "norm_streams": 1.453,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1226,
@@ -7416,12 +6012,6 @@
     "peak_year": 2015
   },
   {
-    "rank": 1238,
-    "artist": "ConeCrewDiretoria",
-    "norm_streams": 1.439,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1239,
     "artist": "Lomepal",
     "norm_streams": 1.438,
@@ -7440,34 +6030,10 @@
     "peak_year": 2014
   },
   {
-    "rank": 1242,
-    "artist": "Mister V",
-    "norm_streams": 1.436,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1243,
     "artist": "AK Ausserkontrolle",
     "norm_streams": 1.432,
     "peak_year": 2017
-  },
-  {
-    "rank": 1244,
-    "artist": "Babasónicos",
-    "norm_streams": 1.431,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1245,
-    "artist": "Perdidos De Sinaloa",
-    "norm_streams": 1.431,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1246,
-    "artist": "99 Percent",
-    "norm_streams": 1.428,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1247,
@@ -7486,12 +6052,6 @@
     "artist": "Norah Jones",
     "norm_streams": 1.425,
     "peak_year": 2002
-  },
-  {
-    "rank": 1250,
-    "artist": "Upchurch",
-    "norm_streams": 1.424,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1251,
@@ -7516,12 +6076,6 @@
     "artist": "Marco Antonio Solís",
     "norm_streams": 1.42,
     "peak_year": 1999
-  },
-  {
-    "rank": 1255,
-    "artist": "Izi",
-    "norm_streams": 1.42,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1256,
@@ -7554,24 +6108,6 @@
     "peak_year": 1990
   },
   {
-    "rank": 1261,
-    "artist": "Trailerpark",
-    "norm_streams": 1.417,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1262,
-    "artist": "Costa Gold",
-    "norm_streams": 1.416,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1263,
-    "artist": "Hippie Sabotage",
-    "norm_streams": 1.416,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1264,
     "artist": "Taburete",
     "norm_streams": 1.415,
@@ -7594,12 +6130,6 @@
     "artist": "Borgore",
     "norm_streams": 1.413,
     "peak_year": 2013
-  },
-  {
-    "rank": 1268,
-    "artist": "James Reid",
-    "norm_streams": 1.412,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1269,
@@ -7638,22 +6168,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 1275,
-    "artist": "Cacife Clandestino",
-    "norm_streams": 1.402,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1276,
     "artist": "Niykee Heaton",
     "norm_streams": 1.402,
     "peak_year": 2016
-  },
-  {
-    "rank": 1277,
-    "artist": 3030,
-    "norm_streams": 1.399,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1278,
@@ -7740,12 +6258,6 @@
     "peak_year": 1997
   },
   {
-    "rank": 1292,
-    "artist": "Edwin Luna y La Trakalosa de Monterrey",
-    "norm_streams": 1.384,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1293,
     "artist": "Joakim Lundell",
     "norm_streams": 1.383,
@@ -7762,12 +6274,6 @@
     "artist": "CAZZETTE",
     "norm_streams": 1.38,
     "peak_year": 2014
-  },
-  {
-    "rank": 1296,
-    "artist": "Dwayne Johnson",
-    "norm_streams": 1.379,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1297,
@@ -7818,18 +6324,6 @@
     "peak_year": 2013
   },
   {
-    "rank": 1305,
-    "artist": "陳奕迅",
-    "norm_streams": 1.356,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1306,
-    "artist": "London Symphony Orchestra",
-    "norm_streams": 1.355,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1307,
     "artist": "No Te Va Gustar",
     "norm_streams": 1.354,
@@ -7858,12 +6352,6 @@
     "artist": "Sevyn Streeter",
     "norm_streams": 1.35,
     "peak_year": 2015
-  },
-  {
-    "rank": 1312,
-    "artist": "Deepend",
-    "norm_streams": 1.35,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1313,
@@ -7900,12 +6388,6 @@
     "artist": "UB40",
     "norm_streams": 1.344,
     "peak_year": 1983
-  },
-  {
-    "rank": 1319,
-    "artist": "Chase Atlantic",
-    "norm_streams": 1.344,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1320,
@@ -7956,12 +6438,6 @@
     "peak_year": 1991
   },
   {
-    "rank": 1328,
-    "artist": "El Nene La amenaza",
-    "norm_streams": 1.338,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1329,
     "artist": "Pixies",
     "norm_streams": 1.336,
@@ -7978,12 +6454,6 @@
     "artist": "Klingande",
     "norm_streams": 1.33,
     "peak_year": 2013
-  },
-  {
-    "rank": 1332,
-    "artist": "Demarco Flamenco",
-    "norm_streams": 1.33,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1333,
@@ -8022,18 +6492,6 @@
     "peak_year": 2013
   },
   {
-    "rank": 1339,
-    "artist": "Thomas Bergersen",
-    "norm_streams": 1.325,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1340,
-    "artist": "Young M.A.",
-    "norm_streams": 1.324,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1341,
     "artist": "Smallpools",
     "norm_streams": 1.32,
@@ -8050,12 +6508,6 @@
     "artist": "Yann Tiersen",
     "norm_streams": 1.318,
     "peak_year": 2001
-  },
-  {
-    "rank": 1344,
-    "artist": "White Noise For Baby Sleep",
-    "norm_streams": 1.317,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1345,
@@ -8082,12 +6534,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 1349,
-    "artist": "Yusuf / Cat Stevens",
-    "norm_streams": 1.313,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1350,
     "artist": "Jarabe De Palo",
     "norm_streams": 1.313,
@@ -8104,12 +6550,6 @@
     "artist": "Lush & Simon",
     "norm_streams": 1.31,
     "peak_year": 2014
-  },
-  {
-    "rank": 1353,
-    "artist": "Gotye",
-    "norm_streams": 1.31,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1354,
@@ -8178,12 +6618,6 @@
     "peak_year": 2006
   },
   {
-    "rank": 1365,
-    "artist": "Bunbury",
-    "norm_streams": 1.299,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1366,
     "artist": "Aviões do Forró",
     "norm_streams": 1.298,
@@ -8238,18 +6672,6 @@
     "peak_year": 1994
   },
   {
-    "rank": 1375,
-    "artist": "José Madero",
-    "norm_streams": 1.283,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1376,
-    "artist": "Omar Ruiz",
-    "norm_streams": 1.282,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1377,
     "artist": "Bonobo",
     "norm_streams": 1.282,
@@ -8274,12 +6696,6 @@
     "peak_year": 2005
   },
   {
-    "rank": 1381,
-    "artist": "LouiVos",
-    "norm_streams": 1.278,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1382,
     "artist": "Counting Crows",
     "norm_streams": 1.278,
@@ -8290,12 +6706,6 @@
     "artist": "Savage",
     "norm_streams": 1.278,
     "peak_year": 1984
-  },
-  {
-    "rank": 1384,
-    "artist": "Nature Sounds",
-    "norm_streams": 1.278,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1385,
@@ -8316,12 +6726,6 @@
     "peak_year": 1998
   },
   {
-    "rank": 1388,
-    "artist": "K.Flay",
-    "norm_streams": 1.274,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1389,
     "artist": "Scarlet Pleasure",
     "norm_streams": 1.273,
@@ -8332,12 +6736,6 @@
     "artist": "Jerry Smith",
     "norm_streams": 1.272,
     "peak_year": 1974
-  },
-  {
-    "rank": 1391,
-    "artist": "DJ Hamida",
-    "norm_streams": 1.27,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1392,
@@ -8394,12 +6792,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 1401,
-    "artist": "Panteon Rococo",
-    "norm_streams": 1.262,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1402,
     "artist": "Third Eye Blind",
     "norm_streams": 1.26,
@@ -8412,12 +6804,6 @@
     "peak_year": 1988
   },
   {
-    "rank": 1404,
-    "artist": "林俊傑",
-    "norm_streams": 1.258,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1405,
     "artist": "Loote",
     "norm_streams": 1.258,
@@ -8428,18 +6814,6 @@
     "artist": "James Horner",
     "norm_streams": 1.258,
     "peak_year": 1986
-  },
-  {
-    "rank": 1407,
-    "artist": "Marama",
-    "norm_streams": 1.256,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1408,
-    "artist": "Donnie Trumpet & The Social Experiment",
-    "norm_streams": 1.256,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1409,
@@ -8466,12 +6840,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 1413,
-    "artist": "MC Hariel",
-    "norm_streams": 1.25,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1414,
     "artist": "Ólafur Arnalds",
     "norm_streams": 1.25,
@@ -8490,46 +6858,16 @@
     "peak_year": 2013
   },
   {
-    "rank": 1417,
-    "artist": "Alkilados",
-    "norm_streams": 1.247,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1418,
-    "artist": "Joel Adams",
-    "norm_streams": 1.244,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1419,
     "artist": "Dae Dae",
     "norm_streams": 1.244,
     "peak_year": 1996
   },
   {
-    "rank": 1420,
-    "artist": "John Gibbons",
-    "norm_streams": 1.244,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1421,
-    "artist": "ayokay",
-    "norm_streams": 1.241,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1422,
     "artist": "Mick Jenkins",
     "norm_streams": 1.241,
     "peak_year": 2014
-  },
-  {
-    "rank": 1423,
-    "artist": "Ansel Elgort",
-    "norm_streams": 1.24,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1424,
@@ -8562,34 +6900,16 @@
     "peak_year": 2014
   },
   {
-    "rank": 1429,
-    "artist": "Vald",
-    "norm_streams": 1.234,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1430,
     "artist": "Victorious Cast",
     "norm_streams": 1.234,
     "peak_year": 2011
   },
   {
-    "rank": 1431,
-    "artist": "TAEYEON",
-    "norm_streams": 1.233,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1432,
     "artist": "Fler",
     "norm_streams": 1.232,
     "peak_year": 2005
-  },
-  {
-    "rank": 1433,
-    "artist": "Mark B.",
-    "norm_streams": 1.231,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1434,
@@ -8604,12 +6924,6 @@
     "peak_year": 2004
   },
   {
-    "rank": 1436,
-    "artist": "Teufelskicker",
-    "norm_streams": 1.226,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1437,
     "artist": "Motionless In White",
     "norm_streams": 1.226,
@@ -8620,12 +6934,6 @@
     "artist": "Halestorm",
     "norm_streams": 1.225,
     "peak_year": 2015
-  },
-  {
-    "rank": 1439,
-    "artist": "Emicida",
-    "norm_streams": 1.224,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1440,
@@ -8700,12 +7008,6 @@
     "peak_year": 2015
   },
   {
-    "rank": 1452,
-    "artist": "Ghost B.C.",
-    "norm_streams": 1.212,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1453,
     "artist": "Ryan Gosling",
     "norm_streams": 1.211,
@@ -8722,12 +7024,6 @@
     "artist": "The Hunna",
     "norm_streams": 1.208,
     "peak_year": 2016
-  },
-  {
-    "rank": 1456,
-    "artist": "R. City",
-    "norm_streams": 1.208,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1457,
@@ -8802,12 +7098,6 @@
     "peak_year": 2010
   },
   {
-    "rank": 1469,
-    "artist": "Adriel Favela",
-    "norm_streams": 1.195,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1470,
     "artist": "Miike Snow",
     "norm_streams": 1.195,
@@ -8832,12 +7122,6 @@
     "peak_year": 2010
   },
   {
-    "rank": 1474,
-    "artist": "Silent Sanctuary",
-    "norm_streams": 1.19,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1475,
     "artist": "Secondhand Serenade",
     "norm_streams": 1.189,
@@ -8848,18 +7132,6 @@
     "artist": "Luigi 21 Plus",
     "norm_streams": 1.189,
     "peak_year": 2012
-  },
-  {
-    "rank": 1477,
-    "artist": "Capo Plaza",
-    "norm_streams": 1.184,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1478,
-    "artist": "Crecer German",
-    "norm_streams": 1.184,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1479,
@@ -8874,18 +7146,6 @@
     "peak_year": 2008
   },
   {
-    "rank": 1481,
-    "artist": "ILoveMakonnen",
-    "norm_streams": 1.182,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1482,
-    "artist": "Not3s",
-    "norm_streams": 1.181,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1483,
     "artist": "Eazy-E",
     "norm_streams": 1.18,
@@ -8896,12 +7156,6 @@
     "artist": "Aloe Blacc",
     "norm_streams": 1.179,
     "peak_year": 2013
-  },
-  {
-    "rank": 1485,
-    "artist": "Elefante",
-    "norm_streams": 1.178,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1486,
@@ -8922,12 +7176,6 @@
     "peak_year": 1991
   },
   {
-    "rank": 1489,
-    "artist": "Jojo Moyes",
-    "norm_streams": 1.175,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1490,
     "artist": "Rainbow Kitten Surprise",
     "norm_streams": 1.174,
@@ -8944,18 +7192,6 @@
     "artist": "Maria Gadú",
     "norm_streams": 1.174,
     "peak_year": 2009
-  },
-  {
-    "rank": 1493,
-    "artist": "E-40",
-    "norm_streams": 1.173,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1494,
-    "artist": "Los 4",
-    "norm_streams": 1.172,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1495,
@@ -9090,12 +7326,6 @@
     "peak_year": 2013
   },
   {
-    "rank": 1517,
-    "artist": "Estopa",
-    "norm_streams": 1.153,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1518,
     "artist": "Paul Simon",
     "norm_streams": 1.153,
@@ -9136,12 +7366,6 @@
     "artist": "The Temptations",
     "norm_streams": 1.15,
     "peak_year": 1973
-  },
-  {
-    "rank": 1525,
-    "artist": "Mr Eazi",
-    "norm_streams": 1.15,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1526,
@@ -9198,12 +7422,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 1535,
-    "artist": "LEGADO 7",
-    "norm_streams": 1.138,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1536,
     "artist": "Ab-Soul",
     "norm_streams": 1.136,
@@ -9246,12 +7464,6 @@
     "peak_year": 2007
   },
   {
-    "rank": 1543,
-    "artist": "SJUR",
-    "norm_streams": 1.132,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1544,
     "artist": "Juan Luis Guerra 4.40",
     "norm_streams": 1.132,
@@ -9268,12 +7480,6 @@
     "artist": "Coolio",
     "norm_streams": 1.13,
     "peak_year": 1995
-  },
-  {
-    "rank": 1547,
-    "artist": "Maleek Berry",
-    "norm_streams": 1.13,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1548,
@@ -9348,18 +7554,6 @@
     "peak_year": 2015
   },
   {
-    "rank": 1560,
-    "artist": "Rachel House",
-    "norm_streams": 1.12,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1561,
-    "artist": "Las Pastillas del Abuelo",
-    "norm_streams": 1.12,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1562,
     "artist": "Godsmack",
     "norm_streams": 1.118,
@@ -9382,12 +7576,6 @@
     "artist": "No Doubt",
     "norm_streams": 1.116,
     "peak_year": 1995
-  },
-  {
-    "rank": 1566,
-    "artist": "Kevin",
-    "norm_streams": 1.115,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1567,
@@ -9432,12 +7620,6 @@
     "peak_year": 1978
   },
   {
-    "rank": 1574,
-    "artist": "Kaliffa",
-    "norm_streams": 1.11,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1575,
     "artist": "Nina Simone",
     "norm_streams": 1.108,
@@ -9480,34 +7662,16 @@
     "peak_year": 1999
   },
   {
-    "rank": 1582,
-    "artist": "MoStack",
-    "norm_streams": 1.104,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1583,
     "artist": "Nine Inch Nails",
     "norm_streams": 1.104,
     "peak_year": 1994
   },
   {
-    "rank": 1584,
-    "artist": "薛之謙",
-    "norm_streams": 1.102,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1585,
     "artist": "Lijpe",
     "norm_streams": 1.102,
     "peak_year": 2015
-  },
-  {
-    "rank": 1586,
-    "artist": "Chyno Miranda",
-    "norm_streams": 1.1,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1587,
@@ -9526,24 +7690,6 @@
     "artist": "Bone Thugs-N-Harmony",
     "norm_streams": 1.098,
     "peak_year": 1995
-  },
-  {
-    "rank": 1590,
-    "artist": "Lil Jon & The East Side Boyz",
-    "norm_streams": 1.097,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1591,
-    "artist": "Anthem Lights",
-    "norm_streams": 1.096,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1592,
-    "artist": "United Pursuit",
-    "norm_streams": 1.096,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1593,
@@ -9588,12 +7734,6 @@
     "peak_year": 2005
   },
   {
-    "rank": 1600,
-    "artist": "Danny Brown",
-    "norm_streams": 1.094,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1601,
     "artist": "Plies",
     "norm_streams": 1.091,
@@ -9606,12 +7746,6 @@
     "peak_year": 2001
   },
   {
-    "rank": 1603,
-    "artist": "Oriente",
-    "norm_streams": 1.09,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1604,
     "artist": "Jamiroquai",
     "norm_streams": 1.089,
@@ -9622,18 +7756,6 @@
     "artist": "Los Fabulosos Cadillacs",
     "norm_streams": 1.088,
     "peak_year": 1995
-  },
-  {
-    "rank": 1606,
-    "artist": "Callejeros",
-    "norm_streams": 1.087,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1607,
-    "artist": "Los Inquietos Del Norte",
-    "norm_streams": 1.084,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1608,
@@ -9678,12 +7800,6 @@
     "peak_year": 2005
   },
   {
-    "rank": 1615,
-    "artist": "Mc Pedrinho",
-    "norm_streams": 1.079,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1616,
     "artist": "Berner",
     "norm_streams": 1.079,
@@ -9700,18 +7816,6 @@
     "artist": "La Renga",
     "norm_streams": 1.077,
     "peak_year": 2014
-  },
-  {
-    "rank": 1619,
-    "artist": "Ruelle",
-    "norm_streams": 1.075,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1620,
-    "artist": "LOCASH",
-    "norm_streams": 1.074,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1621,
@@ -9732,12 +7836,6 @@
     "peak_year": 2009
   },
   {
-    "rank": 1624,
-    "artist": "Joaquin Sabina",
-    "norm_streams": 1.067,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1625,
     "artist": "Keyshia Cole",
     "norm_streams": 1.067,
@@ -9748,12 +7846,6 @@
     "artist": "Sevenn",
     "norm_streams": 1.067,
     "peak_year": 2017
-  },
-  {
-    "rank": 1627,
-    "artist": "Johannes Bornlof",
-    "norm_streams": 1.065,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1628,
@@ -9784,18 +7876,6 @@
     "artist": "Kristin Chenoweth",
     "norm_streams": 1.063,
     "peak_year": 2011
-  },
-  {
-    "rank": 1633,
-    "artist": "Carl Brave x Franco 126",
-    "norm_streams": 1.061,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1634,
-    "artist": "Banda Carnaval",
-    "norm_streams": 1.06,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1635,
@@ -9834,18 +7914,6 @@
     "peak_year": 1986
   },
   {
-    "rank": 1641,
-    "artist": "SOB X RBE",
-    "norm_streams": 1.052,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1642,
-    "artist": "Josh Gad",
-    "norm_streams": 1.052,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1643,
     "artist": "Talking Heads",
     "norm_streams": 1.049,
@@ -9858,22 +7926,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 1645,
-    "artist": "Scott Bradlee's Postmodern Jukebox",
-    "norm_streams": 1.048,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1646,
     "artist": "Bobby Shmurda",
     "norm_streams": 1.048,
     "peak_year": 2014
-  },
-  {
-    "rank": 1647,
-    "artist": "FKJ",
-    "norm_streams": 1.047,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1648,
@@ -9886,12 +7942,6 @@
     "artist": "George Harrison",
     "norm_streams": 1.047,
     "peak_year": 1987
-  },
-  {
-    "rank": 1650,
-    "artist": "Felipe Araújo",
-    "norm_streams": 1.047,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1651,
@@ -9928,12 +7978,6 @@
     "artist": "Nicole Scherzinger",
     "norm_streams": 1.044,
     "peak_year": 2007
-  },
-  {
-    "rank": 1657,
-    "artist": "Original Broadway Cast of Dear Evan Hansen",
-    "norm_streams": 1.043,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1658,
@@ -9984,12 +8028,6 @@
     "peak_year": 1991
   },
   {
-    "rank": 1666,
-    "artist": "Caloncho",
-    "norm_streams": 1.038,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1667,
     "artist": "Campsite Dream",
     "norm_streams": 1.038,
@@ -10008,12 +8046,6 @@
     "peak_year": 2014
   },
   {
-    "rank": 1670,
-    "artist": "Mc Léléto",
-    "norm_streams": 1.035,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1671,
     "artist": "F1rstman",
     "norm_streams": 1.034,
@@ -10030,12 +8062,6 @@
     "artist": "Dizzy Wright",
     "norm_streams": 1.033,
     "peak_year": 2016
-  },
-  {
-    "rank": 1674,
-    "artist": "Chalino Sanchez",
-    "norm_streams": 1.032,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1675,
@@ -10110,12 +8136,6 @@
     "peak_year": 2016
   },
   {
-    "rank": 1687,
-    "artist": "Supercombo",
-    "norm_streams": 1.026,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1688,
     "artist": "Phantogram",
     "norm_streams": 1.026,
@@ -10126,12 +8146,6 @@
     "artist": "Bow Wow",
     "norm_streams": 1.026,
     "peak_year": 2005
-  },
-  {
-    "rank": 1690,
-    "artist": "Megan Davies",
-    "norm_streams": 1.025,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1691,
@@ -10188,12 +8202,6 @@
     "peak_year": 2011
   },
   {
-    "rank": 1700,
-    "artist": "Diquenza",
-    "norm_streams": 1.019,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1701,
     "artist": "Keri Hilson",
     "norm_streams": 1.019,
@@ -10224,12 +8232,6 @@
     "peak_year": 2009
   },
   {
-    "rank": 1706,
-    "artist": "iKON",
-    "norm_streams": 1.017,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1707,
     "artist": "The Verve",
     "norm_streams": 1.016,
@@ -10246,12 +8248,6 @@
     "artist": "Rush",
     "norm_streams": 1.013,
     "peak_year": 1981
-  },
-  {
-    "rank": 1710,
-    "artist": "Jonathan Groff",
-    "norm_streams": 1.012,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1711,
@@ -10302,22 +8298,10 @@
     "peak_year": 2007
   },
   {
-    "rank": 1719,
-    "artist": "Chris Lane",
-    "norm_streams": 1.006,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1720,
     "artist": "RY X",
     "norm_streams": 1.005,
     "peak_year": 2016
-  },
-  {
-    "rank": 1721,
-    "artist": "Grupo Maximo Grado",
-    "norm_streams": 1,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1722,
@@ -10338,18 +8322,6 @@
     "peak_year": 2013
   },
   {
-    "rank": 1725,
-    "artist": "Zach Callison",
-    "norm_streams": 0.998,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1726,
-    "artist": "Ms. Lauryn Hill",
-    "norm_streams": 0.996,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1727,
     "artist": "filous",
     "norm_streams": 0.996,
@@ -10366,12 +8338,6 @@
     "artist": "Dilsinho",
     "norm_streams": 0.995,
     "peak_year": 2016
-  },
-  {
-    "rank": 1730,
-    "artist": "AmaLee",
-    "norm_streams": 0.995,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1731,
@@ -10410,22 +8376,10 @@
     "peak_year": 2006
   },
   {
-    "rank": 1737,
-    "artist": "Dayme y El High",
-    "norm_streams": 0.99,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1738,
     "artist": "James Blake",
     "norm_streams": 0.989,
     "peak_year": 2011
-  },
-  {
-    "rank": 1739,
-    "artist": "Vegas Jones",
-    "norm_streams": 0.989,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1740,
@@ -10434,22 +8388,10 @@
     "peak_year": 2016
   },
   {
-    "rank": 1741,
-    "artist": "Dame 5",
-    "norm_streams": 0.987,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1742,
     "artist": "The Veronicas",
     "norm_streams": 0.987,
     "peak_year": 2005
-  },
-  {
-    "rank": 1743,
-    "artist": "Dj Paul Elstak",
-    "norm_streams": 0.987,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1744,
@@ -10470,12 +8412,6 @@
     "peak_year": 2008
   },
   {
-    "rank": 1747,
-    "artist": "Lotto Boyzz",
-    "norm_streams": 0.985,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1748,
     "artist": "Jet",
     "norm_streams": 0.984,
@@ -10486,12 +8422,6 @@
     "artist": "Bas",
     "norm_streams": 0.984,
     "peak_year": 2016
-  },
-  {
-    "rank": 1750,
-    "artist": "Syml",
-    "norm_streams": 0.982,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1751,
@@ -10548,12 +8478,6 @@
     "peak_year": 2002
   },
   {
-    "rank": 1760,
-    "artist": "League of Legends",
-    "norm_streams": 0.976,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1761,
     "artist": "Kempi",
     "norm_streams": 0.976,
@@ -10564,12 +8488,6 @@
     "artist": "The Knocks",
     "norm_streams": 0.975,
     "peak_year": 2016
-  },
-  {
-    "rank": 1763,
-    "artist": "Audien",
-    "norm_streams": 0.975,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1764,
@@ -10626,12 +8544,6 @@
     "peak_year": 2000
   },
   {
-    "rank": 1773,
-    "artist": "Arman Cekin",
-    "norm_streams": 0.969,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1774,
     "artist": "Syd",
     "norm_streams": 0.968,
@@ -10642,12 +8554,6 @@
     "artist": "Amon Amarth",
     "norm_streams": 0.967,
     "peak_year": 2006
-  },
-  {
-    "rank": 1776,
-    "artist": "DragonForce",
-    "norm_streams": 0.967,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1777,
@@ -10710,12 +8616,6 @@
     "peak_year": 2012
   },
   {
-    "rank": 1787,
-    "artist": "Bonde R300",
-    "norm_streams": 0.963,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1788,
     "artist": "Never Shout Never",
     "norm_streams": 0.963,
@@ -10752,22 +8652,10 @@
     "peak_year": 2013
   },
   {
-    "rank": 1794,
-    "artist": "Ali As",
-    "norm_streams": 0.957,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1795,
     "artist": "Mamamoo",
     "norm_streams": 0.957,
     "peak_year": 2014
-  },
-  {
-    "rank": 1796,
-    "artist": "Kristen Bell",
-    "norm_streams": 0.957,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1797,
@@ -10866,12 +8754,6 @@
     "peak_year": 2000
   },
   {
-    "rank": 1813,
-    "artist": "Turnover",
-    "norm_streams": 0.946,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1814,
     "artist": "Gabriella",
     "norm_streams": 0.946,
@@ -10882,12 +8764,6 @@
     "artist": "Boosie Badazz",
     "norm_streams": 0.946,
     "peak_year": 2016
-  },
-  {
-    "rank": 1816,
-    "artist": "STRFKR",
-    "norm_streams": 0.945,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1817,
@@ -10918,12 +8794,6 @@
     "artist": "Kool Savas",
     "norm_streams": 0.941,
     "peak_year": 2004
-  },
-  {
-    "rank": 1822,
-    "artist": "Mc Maromba",
-    "norm_streams": 0.94,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1823,
@@ -10992,34 +8862,16 @@
     "peak_year": 1988
   },
   {
-    "rank": 1834,
-    "artist": "Zay Hilfigerrr",
-    "norm_streams": 0.935,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1835,
     "artist": "Parson James",
     "norm_streams": 0.935,
     "peak_year": 2015
   },
   {
-    "rank": 1836,
-    "artist": "Sara Farell",
-    "norm_streams": 0.935,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1837,
     "artist": "Dolly Parton",
     "norm_streams": 0.935,
     "peak_year": 1987
-  },
-  {
-    "rank": 1838,
-    "artist": "Courteeners",
-    "norm_streams": 0.935,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1839,
@@ -11046,12 +8898,6 @@
     "peak_year": 1975
   },
   {
-    "rank": 1843,
-    "artist": "Sabrina Claudio",
-    "norm_streams": 0.934,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1844,
     "artist": "Justice",
     "norm_streams": 0.933,
@@ -11062,18 +8908,6 @@
     "artist": "Charlie Charles",
     "norm_streams": 0.932,
     "peak_year": 2008
-  },
-  {
-    "rank": 1846,
-    "artist": "Sleep Sound Library",
-    "norm_streams": 0.931,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1847,
-    "artist": "Emma Watson",
-    "norm_streams": 0.931,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1848,
@@ -11118,12 +8952,6 @@
     "peak_year": 2010
   },
   {
-    "rank": 1855,
-    "artist": "Rain Sounds & White Noise",
-    "norm_streams": 0.925,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1856,
     "artist": "Keaton Henson",
     "norm_streams": 0.924,
@@ -11134,12 +8962,6 @@
     "artist": "Throttle",
     "norm_streams": 0.924,
     "peak_year": 1995
-  },
-  {
-    "rank": 1858,
-    "artist": "Ryan Caraveo",
-    "norm_streams": 0.924,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1859,
@@ -11160,12 +8982,6 @@
     "peak_year": 2004
   },
   {
-    "rank": 1862,
-    "artist": "Noel Torres",
-    "norm_streams": 0.922,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1863,
     "artist": "Hermitude",
     "norm_streams": 0.921,
@@ -11176,12 +8992,6 @@
     "artist": "Sud",
     "norm_streams": 0.921,
     "peak_year": 2000
-  },
-  {
-    "rank": 1865,
-    "artist": "PSY",
-    "norm_streams": 0.92,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1866,
@@ -11206,12 +9016,6 @@
     "artist": "Amaranthe",
     "norm_streams": 0.918,
     "peak_year": 2011
-  },
-  {
-    "rank": 1870,
-    "artist": "Walker Hayes",
-    "norm_streams": 0.918,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1871,
@@ -11268,28 +9072,10 @@
     "peak_year": 2009
   },
   {
-    "rank": 1880,
-    "artist": "Will Roland",
-    "norm_streams": 0.913,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1881,
-    "artist": "Raisa",
-    "norm_streams": 0.913,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1882,
     "artist": "Air Supply",
     "norm_streams": 0.912,
     "peak_year": 1981
-  },
-  {
-    "rank": 1883,
-    "artist": "I.O.I",
-    "norm_streams": 0.912,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1884,
@@ -11328,12 +9114,6 @@
     "peak_year": 2007
   },
   {
-    "rank": 1890,
-    "artist": "Laura Dreyfuss",
-    "norm_streams": 0.908,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1891,
     "artist": "Zella Day",
     "norm_streams": 0.907,
@@ -11364,12 +9144,6 @@
     "peak_year": 1985
   },
   {
-    "rank": 1896,
-    "artist": "Traviezoz de la Zierra",
-    "norm_streams": 0.903,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1897,
     "artist": "Karpe Diem",
     "norm_streams": 0.903,
@@ -11394,22 +9168,10 @@
     "peak_year": 2013
   },
   {
-    "rank": 1901,
-    "artist": "Lilly Wood and The Prick",
-    "norm_streams": 0.9,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1902,
     "artist": "Joey Montana",
     "norm_streams": 0.9,
     "peak_year": 2017
-  },
-  {
-    "rank": 1903,
-    "artist": "Hank Williams, Jr.",
-    "norm_streams": 0.9,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1904,
@@ -11418,40 +9180,16 @@
     "peak_year": 2012
   },
   {
-    "rank": 1905,
-    "artist": "Bruno Major",
-    "norm_streams": 0.899,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1906,
-    "artist": "J.T. Machinima",
-    "norm_streams": 0.897,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1907,
     "artist": "Elle King",
     "norm_streams": 0.897,
     "peak_year": 2015
   },
   {
-    "rank": 1908,
-    "artist": "HEDEGAARD",
-    "norm_streams": 0.896,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1909,
     "artist": "Mambo Kings",
     "norm_streams": 0.896,
     "peak_year": 1999
-  },
-  {
-    "rank": 1910,
-    "artist": "Travie McCoy",
-    "norm_streams": 0.896,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1911,
@@ -11464,18 +9202,6 @@
     "artist": "Pyotr Ilyich Tchaikovsky",
     "norm_streams": 0.895,
     "peak_year": 1959
-  },
-  {
-    "rank": 1913,
-    "artist": "Naza",
-    "norm_streams": 0.894,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1914,
-    "artist": "Juhn",
-    "norm_streams": 0.893,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1915,
@@ -11514,18 +9240,6 @@
     "peak_year": 2010
   },
   {
-    "rank": 1921,
-    "artist": "Hanni und Nanni",
-    "norm_streams": 0.89,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1922,
-    "artist": "Lewis Capaldi",
-    "norm_streams": 0.888,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1923,
     "artist": "Ace Hood",
     "norm_streams": 0.888,
@@ -11538,34 +9252,10 @@
     "peak_year": 2017
   },
   {
-    "rank": 1925,
-    "artist": "Laruzo",
-    "norm_streams": 0.887,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1926,
-    "artist": "Hillsong en Español",
-    "norm_streams": 0.887,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1927,
-    "artist": "Flight Facilities",
-    "norm_streams": 0.886,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1928,
     "artist": "Chuck Berry",
     "norm_streams": 0.884,
     "peak_year": 1964
-  },
-  {
-    "rank": 1929,
-    "artist": "Tribo da Periferia",
-    "norm_streams": 0.884,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1930,
@@ -11574,22 +9264,10 @@
     "peak_year": 2014
   },
   {
-    "rank": 1931,
-    "artist": "Tom Walker",
-    "norm_streams": 0.884,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1932,
     "artist": "Lloyd Banks",
     "norm_streams": 0.883,
     "peak_year": 2004
-  },
-  {
-    "rank": 1933,
-    "artist": "Yung Gravy",
-    "norm_streams": 0.882,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1934,
@@ -11608,12 +9286,6 @@
     "artist": "Kaiser Chiefs",
     "norm_streams": 0.882,
     "peak_year": 2005
-  },
-  {
-    "rank": 1937,
-    "artist": "Broiler",
-    "norm_streams": 0.88,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1938,
@@ -11644,18 +9316,6 @@
     "artist": "Ray Charles",
     "norm_streams": 0.878,
     "peak_year": 1961
-  },
-  {
-    "rank": 1943,
-    "artist": "Big Wild",
-    "norm_streams": 0.877,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1944,
-    "artist": "Young Dread",
-    "norm_streams": 0.877,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1945,
@@ -11706,28 +9366,10 @@
     "peak_year": 2006
   },
   {
-    "rank": 1953,
-    "artist": "Azet",
-    "norm_streams": 0.873,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1954,
-    "artist": "KREAM",
-    "norm_streams": 0.873,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1955,
     "artist": "Rod Stewart",
     "norm_streams": 0.873,
     "peak_year": 1978
-  },
-  {
-    "rank": 1956,
-    "artist": "August Wilhelmsson",
-    "norm_streams": 0.873,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1957,
@@ -11746,18 +9388,6 @@
     "artist": "Warren G",
     "norm_streams": 0.872,
     "peak_year": 1994
-  },
-  {
-    "rank": 1960,
-    "artist": "Sultan + Shepard",
-    "norm_streams": 0.872,
-    "peak_year": "#N/A"
-  },
-  {
-    "rank": 1961,
-    "artist": "Voz De Mando",
-    "norm_streams": 0.871,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1962,
@@ -11826,22 +9456,10 @@
     "peak_year": 1978
   },
   {
-    "rank": 1973,
-    "artist": "King Lil G",
-    "norm_streams": 0.863,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1974,
     "artist": "Vini Vici",
     "norm_streams": 0.863,
     "peak_year": 2016
-  },
-  {
-    "rank": 1975,
-    "artist": "LUCHS",
-    "norm_streams": 0.863,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1976,
@@ -11850,22 +9468,10 @@
     "peak_year": 1995
   },
   {
-    "rank": 1977,
-    "artist": "Inigo Pascual",
-    "norm_streams": 0.862,
-    "peak_year": "#N/A"
-  },
-  {
     "rank": 1978,
     "artist": "Eiffel 65",
     "norm_streams": 0.862,
     "peak_year": 1999
-  },
-  {
-    "rank": 1979,
-    "artist": "Erika Costell",
-    "norm_streams": 0.862,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1980,
@@ -11902,12 +9508,6 @@
     "artist": "Silverstein",
     "norm_streams": 0.859,
     "peak_year": 2013
-  },
-  {
-    "rank": 1986,
-    "artist": "Jon Langston",
-    "norm_streams": 0.859,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1987,
@@ -11950,12 +9550,6 @@
     "artist": "Moose Blood",
     "norm_streams": 0.856,
     "peak_year": 2013
-  },
-  {
-    "rank": 1994,
-    "artist": "Lil Peep",
-    "norm_streams": 0.856,
-    "peak_year": "#N/A"
   },
   {
     "rank": 1995,
