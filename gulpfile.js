@@ -132,7 +132,7 @@ gulp.task('data', function() {
 gulp.task('watch', function () {
 	gulp.watch(settings.sassDir + '/**', ['sass']);
 	gulp.watch(['*.jade', '**/*.jade', '**/*.json'], ['jade-rebuild']);
-  gulp.watch(['*.js', '**/*.js', '**/*.json'], ['js-rebuild']);
+  gulp.watch(['src/_js/*.js'], ['js-rebuild']);
 });
 
 /**

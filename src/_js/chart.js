@@ -12,7 +12,7 @@
 
             self.div = d3.select(selector);
 
-            console.log('aaaand what about chart');
+            console.log('plz dont loop');
             console.log(selector);
             console.log(data);
 

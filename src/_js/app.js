@@ -21,7 +21,7 @@ function drawScatterCharts() {
     chart.init("#scatter-container", data);
     scatterCharts.push(chart);
 
-    console.log('fucking finally');
+    console.log('dont loop');
 }
 
 drawScatterCharts();
