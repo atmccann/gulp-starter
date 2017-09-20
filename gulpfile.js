@@ -130,9 +130,9 @@ gulp.task('data', function() {
  * Watch .jade files run jade-rebuild then reload BrowserSync
  */
 gulp.task('watch', function () {
-	gulp.watch('src/_js/app.js', ['js-rebuild']);
 	gulp.watch(settings.sassDir + '/**', ['sass']);
 	gulp.watch(['*.jade', '**/*.jade', '**/*.json'], ['jade-rebuild']);
+  gulp.watch(['*.js', '**/*.js', '**/*.json'], ['js-rebuild']);
 });
 
 /**

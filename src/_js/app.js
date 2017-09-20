@@ -7,19 +7,22 @@
 
 var utils = require('./utils.js');
 var _ = require('underscore');
-var Chart = require("./chart.js");
+var d3 = require('d3');
 
-//data
+//data and chart
 var data = require("../_data/artists.json");
+var scatterChart = require('./chart.js');
 
-var Charts = [],
+var scatterCharts = [],
     chart;
 
-function drawCharts() {
-    var chart = new Chart();
-    chart.init("#scatter-container .graph");
-    Charts.push(chart);
+function drawScatterCharts() {
+    var chart = new scatterChart();
+    chart.init("#scatter-container", data);
+    scatterCharts.push(chart);
+
+    console.log('fucking finally');
 }
 
-drawCharts();
+drawScatterCharts();
 
