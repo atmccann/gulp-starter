@@ -1,7 +1,5 @@
 ;(function() {
 
-    console.log('hello');
-
     var utils = require('./utils.js');
     var _ = require('underscore');
     var d3 = require('d3');

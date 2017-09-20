@@ -3,16 +3,17 @@
 
 var gulp = require('gulp'),
 	gutil = require('gulp-util'),
+	data = require('gulp-data'),
+	browserify = require('gulp-browserify'),
+	browserSync = require('browser-sync'),
 	fs = require('fs'),
 	file = require('gulp-file'),
-	path = require('path'),
-	data = require('gulp-data'),
 	jade = require('gulp-jade'),
+	less = require('gulp-less'),
+	path = require('path'),
 	prefix = require('gulp-autoprefixer'),
 	sass = require('gulp-sass'),
-	_ = require('underscore'),
-	browserify = require('gulp-browserify'),
-	browserSync = require('browser-sync');
+	_ = require('underscore');
 
 /*
 * Change directories here
@@ -31,7 +32,7 @@ gulp.task('scripts', function() {
           insertGlobals : true,
           debug : !gulp.env.production
         }))
-        .pipe(gulp.dest('./_site/assets/js'))
+        .pipe(gulp.dest('./_site/assets/js'));
 });
 
 /**
@@ -71,6 +72,10 @@ function requireUncached( $module ) {
  * Recompile .jade files and live reload the browser
  */
 gulp.task('jade-rebuild', ['jade'], function () {
+	browserSync.reload();
+});
+
+gulp.task('js-rebuild', ['scripts'], function () {
 	browserSync.reload();
 });
 
@@ -125,6 +130,7 @@ gulp.task('data', function() {
  * Watch .jade files run jade-rebuild then reload BrowserSync
  */
 gulp.task('watch', function () {
+	gulp.watch('src/_js/app.js', ['js-rebuild']);
 	gulp.watch(settings.sassDir + '/**', ['sass']);
 	gulp.watch(['*.jade', '**/*.jade', '**/*.json'], ['jade-rebuild']);
 });
