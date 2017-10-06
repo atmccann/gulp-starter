@@ -7,7 +7,7 @@ require('colors');
 console.error(('spreadsheet.js').green.inverse);
 
 tabletop.init({ 
-  key: '1Fdsz9s0WQlyG72UtCLiSa8_LjtbRI7G8yRBetGhj_vo',
+  key: 'https://docs.google.com/a/vice.com/spreadsheets/d/1Rg3pzuz_gyxIvYuyPXxitwbS_6f4Z3SPzI_u4DqlNMo/edit?usp=sharing',
   callback: function(result, tabletop) {
     
     var googleRows = result.length;

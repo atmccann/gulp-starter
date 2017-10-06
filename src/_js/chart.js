@@ -31,8 +31,8 @@
             var width = 850,
                 height = 850;
 
-            var x = d3.scaleLinear().domain([1950,2017]).range([0, width]),
-                y = d3.scaleLinear().domain([0,100]).range([height, 0]);
+            var x = d3.scaleLinear().domain([1950,2002]).range([0, width]),
+                y = d3.scaleLinear().domain([0,1]).range([height, 0]);
 
             var xAxis = d3.axisBottom(x)
                 yAxis = d3.axisLeft(y);

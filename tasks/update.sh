@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tasks/spreadsheet.js > _data/artists.json \
+tasks/spreadsheet.js > src/_data/artists.json \
